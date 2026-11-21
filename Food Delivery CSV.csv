@@ -1,0 +1,1526 @@
+Order_ID,Order_Date,Order_Hour,City,Restaurant,Cuisine,Order_Value,Payment_Mode,Order_Status,Delivery_Time_Min
+FD10494,2026-10-26,19,Mumbai,Healthy Bowl,Healthy,274.0,UPI,Delivered,32.6
+FD10017,2026-10-22,12,Pune,Spice Route,North Indian,226.79,UPI,Delivered,27.1
+FD10289,2026-10-14,20,Mumbai,Tandoori Nights,North Indian,550.24,Cash,Delayed,58.1
+FD11005,2026-09-14,18,Kolkata,Spice Route,North Indian,338.32,Cash,Delayed,104.7
+FD11238,2026-10-28,20,Mumbai,Burger Barn,Burgers,118.48,Cash,Delivered,43.6
+FD11062,2026-08-10,21,Bengaluru,Dragon Wok,Chinese,446.82,Card,Delayed,50.6
+FD11357,2026-09-08,21,Chennai,Pizza Corner,Pizza,431.59,Wallet,Delivered,38.3
+FD11030,2026-10-07,22,Delhi,Tandoori Nights,North Indian,257.39,Cash,Delivered,25.5
+FD10906,2026-09-05,18,Bengaluru,Spice Route,North Indian,343.33,UPI,Delivered,26.6
+FD10689,2026-10-17,20,Kolkata,Healthy Bowl,Healthy,196.09,UPI,Delivered,34.2
+FD11082,2026-08-27,15,Hyderabad,Biryani House,Biryani,454.3,Cash,Delivered,25.7
+FD11475,2026-09-30,19,Mumbai,Burger Barn,Burgers,297.25,UPI,Delayed,50.2
+FD10084,2026-09-11,19,Kolkata,Sweet Tooth,Desserts,360.67,UPI,Delivered,29.6
+FD10738,2026-08-30,18,Chennai,Curry Leaf,South Indian,340.85,Cash,Delivered,41.1
+FD10709,2026-08-25,12,Pune,Dosa Plaza,South Indian,351.15,Cash,Delayed,87.5
+FD10530,2026-08-15,18,Delhi,Tandoori Nights,North Indian,281.75,UPI,Delivered,37.7
+FD10358,2026-08-04,15,Delhi,Curry Leaf,South Indian,90.1,UPI,Delivered,34.8
+FD10071,2026-08-26,21,Mumbai,Biryani House,Biryani,279.8,UPI,Delayed,47.2
+FD10500,2026-10-20,22,Delhi,Wrap Station,Fast Food,270.13,Cash,Delayed,51.1
+FD10830,2026-08-24,14,Meerut,Tandoori Nights,North Indian,410.8,UPI,Delivered,38.8
+FD10905,2026-10-22,19,Meerut,Burger Barn,Burgers,311.64,Wallet,Delivered,29.5
+FD10832,2026-10-10,14,Chennai,Spice Route,North Indian,315.97,UPI,Delivered,32.9
+FD10222,2026-09-18,23,Mumbai,Burger Barn,Burgers,215.59,UPI,Delivered,37.8
+FD10936,2026-08-16,20,Hyderabad,Tandoori Nights,North Indian,528.96,UPI,Delivered,44.1
+FD11406,2026-09-27,19,Delhi,Curry Leaf,South Indian,353.46,UPI,Delivered,40.2
+FD10401,2026-08-25,14,Mumbai,Dosa Plaza,South Indian,267.4,UPI,Delivered,25.5
+FD10329,2026-09-30,20,Delhi,Pizza Corner,Pizza,460.68,UPI,Delivered,37.2
+FD10070,2026-10-22,19,Bengaluru,Tandoori Nights,North Indian,326.35,Cash,Delayed,48.9
+FD11415,2026-10-23,20,Bengaluru,Tandoori Nights,North Indian,260.63,Card,Delivered,43.3
+FD11329,2026-08-20,19,Bengaluru,Noodle Bar,Chinese,346.27,Card,Delivered,39.2
+FD11307,2026-10-23,18,Hyderabad,Dosa Plaza,South Indian,243.53,UPI,Delayed,53.4
+FD10062,2026-10-10,21,Bengaluru,Sweet Tooth,Desserts,192.16,Wallet,Delivered,32.9
+FD10838,2026-09-01,13,Hyderabad,Dosa Plaza,South Indian,80.0,Cash,Cancelled,
+FD11036,2026-09-22,11,Bengaluru,Sweet Tooth,Desserts,346.72,UPI,Delayed,93.8
+FD10671,2026-09-12,13,Delhi,Wrap Station,Fast Food,314.99,UPI,Delivered,37.8
+FD10657,2026-08-17,18,Delhi,Curry Leaf,South Indian,147.71,UPI,Delayed,50.9
+FD10769,2026-10-27,12,Pune,Burger Barn,Burgers,271.16,Cash,Delivered,
+FD10801,2026-08-02,22,Delhi,Biryani House,Biryani,314.26,Cash,Delivered,31.2
+FD10051,2026-08-11,12,Bengaluru,Biryani House,Biryani,394.42,UPI,Delivered,29.2
+FD11168,2026-09-13,13,Bengaluru,Dragon Wok,Chinese,414.82,Card,Delivered,40.6
+FD10922,2026-09-28,19,Delhi,Noodle Bar,Chinese,372.12,UPI,Delivered,30.7
+FD10505,2026-09-25,17,Mumbai,Spice Route,North Indian,260.06,Wallet,Delayed,54.3
+FD10881,2026-09-25,21,Kolkata,Burger Barn,Burgers,407.77,Wallet,Cancelled,
+FD11178,2026-10-13,11,Kolkata,Pizza Corner,Pizza,453.26,Wallet,Delivered,26.2
+FD11211,2026-10-20,10,Mumbai,Noodle Bar,Chinese,409.88,UPI,Delivered,29.8
+FD10601,2026-09-10,20,Mumbai,Biryani House,Biryani,551.79,UPI,Delivered,
+FD10270,2026-09-21,16,Delhi,Dragon Wok,Chinese,341.45,Wallet,Delivered,34.5
+FD10104,2026-10-24,15,Delhi,Biryani House,Biryani,424.17,Card,Delivered,40.3
+FD10805,2026-09-05,12,Pune,Tandoori Nights,North Indian,252.84,UPI,Delivered,28.2
+FD10240,2026-08-24,17,Mumbai,Sweet Tooth,Desserts,80.0,UPI,Delivered,41.1
+FD10839,2026-08-10,14,Hyderabad,Tandoori Nights,North Indian,423.02,UPI,Delivered,27.7
+FD10189,2026-10-11,19,Hyderabad,Biryani House,Biryani,371.82,Card,Delivered,32.3
+FD10572,2026-10-09,19,Kolkata,Dragon Wok,Chinese,373.04,Wallet,Delivered,43.9
+FD10649,2026-10-20,18,Mumbai,Noodle Bar,Chinese,196.65,UPI,Cancelled,
+FD10305,2026-08-30,20,Pune,Dragon Wok,Chinese,269.28,Card,Delayed,46.2
+FD10806,2026-10-15,12,Bengaluru,Dragon Wok,Chinese,358.06,Wallet,Delivered,37.2
+FD10793,2026-08-19,21,Pune,Dosa Plaza,South Indian,385.4,UPI,Delivered,42.9
+FD10781,2026-10-12,12,Delhi,Wrap Station,Fast Food,243.32,UPI,Delivered,34.6
+FD10931,2026-09-02,12,Delhi,Dosa Plaza,South Indian,281.81,UPI,Delivered,36.0
+FD10086,2026-08-30,21,Chennai,Wrap Station,Fast Food,351.56,UPI,Delivered,37.4
+FD11042,2026-09-24,10,Delhi,Healthy Bowl,Healthy,259.0,Card,Delivered,43.1
+FD11433,2026-10-26,21,Chennai,Dragon Wok,Chinese,296.47,Cash,Delivered,39.8
+FD11174,2026-10-28,19,Delhi,Curry Leaf,South Indian,329.31,UPI,Delivered,39.4
+FD10593,2026-08-27,22,Bengaluru,Sweet Tooth,Desserts,80.0,Card,Cancelled,
+FD11191,2026-09-20,19,Kolkata,Biryani House,Biryani,564.53,Wallet,Delivered,42.8
+FD10852,2026-08-24,19,Delhi,Burger Barn,Burgers,211.36,UPI,Delayed,46.5
+FD11383,2026-08-27,14,Bengaluru,Pizza Corner,Pizza,441.92,Wallet,Delivered,35.4
+FD11459,2026-10-31,10,Delhi,Dragon Wok,Chinese,284.96,Card,Delivered,44.9
+FD10230,2026-08-09,19,Pune,Spice Route,North Indian,389.47,Cash,Delivered,26.9
+FD10195,2026-09-17,18,Delhi,Dragon Wok,Chinese,251.49,Card,Delayed,47.7
+FD10005,2026-10-01,17,Mumbai,Sweet Tooth,Desserts,248.88,Cash,Delivered,42.9
+FD11348,2026-09-13,18,Delhi,Dosa Plaza,South Indian,253.06,Card,Delayed,55.5
+FD10847,2026-08-05,22,Kolkata,Sweet Tooth,Desserts,102.41,Card,Delivered,36.0
+FD11032,2026-10-06,12,Mumbai,Wrap Station,Fast Food,209.58,UPI,Delivered,31.7
+FD11265,2026-10-17,22,Delhi,Wrap Station,Fast Food,394.25,Wallet,Delayed,48.6
+FD10390,2026-08-30,11,Mumbai,Wrap Station,Fast Food,262.69,UPI,Delivered,40.6
+FD11209,2026-09-09,13,Meerut,Curry Leaf,South Indian,413.05,UPI,Delivered,39.2
+FD11349,2026-10-28,17,Chennai,Wrap Station,Fast Food,194.57,UPI,Delivered,42.8
+FD10499,2026-08-15,14,Mumbai,Tandoori Nights,North Indian,448.66,UPI,Delayed,45.0
+FD11159,2026-08-17,17,Delhi,Pizza Corner,Pizza,416.38,Card,Delivered,26.1
+FD10488,2026-10-09,11,Hyderabad,Noodle Bar,Chinese,254.47,Card,Delivered,38.3
+FD10609,2026-08-10,18,Bengaluru,Biryani House,Biryani,259.1,Cash,Delivered,39.3
+FD11376,2026-08-21,12,Kolkata,Tandoori Nights,North Indian,369.35,UPI,Delivered,31.5
+FD11380,2026-08-10,19,Mumbai,Dosa Plaza,South Indian,261.26,Cash,Delivered,36.1
+FD10430,2026-08-18,15,Mumbai,Noodle Bar,Chinese,377.97,Cash,Delayed,49.8
+FD11494,2026-10-10,16,Kolkata,Wrap Station,Fast Food,84.99,UPI,Delivered,28.2
+FD10486,2026-10-30,13,Mumbai,Tandoori Nights,North Indian,328.18,UPI,Delayed,88.5
+FD10714,2026-09-24,20,Kolkata,Dosa Plaza,South Indian,116.75,UPI,Delayed,45.8
+FD11055,2026-08-15,12,Mumbai,Wrap Station,Fast Food,398.3,Card,Delayed,54.5
+FD10791,2026-10-10,18,Meerut,Pizza Corner,Pizza,444.1,UPI,Cancelled,
+FD10954,2026-09-16,19,Mumbai,Burger Barn,Burgers,205.81,UPI,Delivered,39.3
+FD11019,2026-09-03,14,Kolkata,Dragon Wok,Chinese,334.06,Wallet,Delivered,37.3
+FD10744,2026-09-02,12,Kolkata,Burger Barn,Burgers,327.0,UPI,Delivered,39.8
+FD11258,2026-10-23,14,Bengaluru,Pizza Corner,Pizza,486.01,UPI,Delivered,37.0
+FD11156,2026-09-21,12,Delhi,Dragon Wok,Chinese,405.72,Wallet,Delivered,27.6
+FD11089,2026-08-14,18,Kolkata,Biryani House,Biryani,450.79,Cash,Delivered,25.4
+FD10351,2026-08-09,17,Bengaluru,Spice Route,North Indian,361.97,Cash,Delayed,45.7
+FD10294,2026-08-21,20,Delhi,Noodle Bar,Chinese,194.85,UPI,Delivered,41.8
+FD10824,2026-08-17,18,Bengaluru,Pizza Corner,Pizza,212.55,Card,Delivered,39.4
+FD10100,2026-10-11,13,Pune,Spice Route,North Indian,264.0,UPI,Delivered,31.6
+FD11268,2026-10-24,19,Bengaluru,Curry Leaf,South Indian,289.82,Wallet,Delivered,42.1
+FD11384,2026-10-25,12,Bengaluru,Biryani House,Biryani,553.47,Wallet,Cancelled,
+FD10267,2026-10-21,18,Kolkata,Noodle Bar,Chinese,222.55,UPI,Cancelled,
+FD10935,2026-09-14,20,Mumbai,Tandoori Nights,North Indian,470.05,Card,Cancelled,
+FD11338,2026-09-14,20,Mumbai,Healthy Bowl,Healthy,274.72,Wallet,Delivered,43.7
+FD10375,2026-10-28,20,Mumbai,Sweet Tooth,Desserts,80.0,Wallet,Delivered,43.5
+FD11120,2026-10-11,18,Mumbai,Sweet Tooth,Desserts,227.5,UPI,Delivered,
+FD10719,2026-10-09,19,Mumbai,Biryani House,Biryani,421.54,Card,Delayed,51.1
+FD10171,2026-10-14,13,Chennai,Noodle Bar,Chinese,252.87,Wallet,Delivered,40.8
+FD10788,2026-10-17,18,Mumbai,Spice Route,North Indian,432.99,Card,Delivered,39.5
+FD10356,2026-09-03,16,Mumbai,Dosa Plaza,South Indian,189.63,Cash,Delivered,32.3
+FD10443,2026-09-18,11,Mumbai,Spice Route,North Indian,325.49,Card,Delivered,40.2
+FD10493,2026-10-02,18,Mumbai,Spice Route,North Indian,374.5,UPI,Delivered,39.6
+FD11154,2026-08-31,21,Delhi,Spice Route,North Indian,229.92,Cash,Delivered,43.2
+FD10920,2026-09-30,19,Pune,Noodle Bar,Chinese,205.68,UPI,Delivered,27.9
+FD10194,2026-09-13,18,Pune,Noodle Bar,Chinese,410.76,Wallet,Delivered,20.2
+FD11245,2026-10-01,20,Bengaluru,Noodle Bar,Chinese,264.07,UPI,Delivered,24.0
+FD11323,2026-09-12,19,Bengaluru,Pizza Corner,Pizza,310.94,UPI,Delivered,31.4
+FD10897,2026-08-10,15,Hyderabad,Burger Barn,Burgers,309.11,UPI,Delivered,24.3
+FD11445,2026-10-31,12,Bengaluru,Spice Route,North Indian,346.1,Cash,Delivered,29.4
+FD10322,2026-08-26,20,Chennai,Sweet Tooth,Desserts,305.23,UPI,Delivered,43.4
+FD11411,2026-08-16,21,Meerut,Spice Route,North Indian,356.28,UPI,Delivered,21.0
+FD11319,2026-10-02,16,Bengaluru,Sweet Tooth,Desserts,267.74,Card,Delivered,41.4
+FD10990,2026-08-24,16,Delhi,Wrap Station,Fast Food,358.52,Card,Delivered,44.1
+FD11455,2026-09-04,14,Mumbai,Pizza Corner,Pizza,400.82,Card,Delivered,39.4
+FD11053,2026-10-05,21,Chennai,Noodle Bar,Chinese,294.73,UPI,Delivered,44.9
+FD10264,2026-08-21,20,Hyderabad,Pizza Corner,Pizza,549.9,Card,Delivered,31.8
+FD10986,2026-09-27,17,Pune,Noodle Bar,Chinese,162.24,Cash,Delivered,42.5
+FD11015,2026-10-28,16,Chennai,Noodle Bar,Chinese,127.38,Card,Delivered,23.9
+FD11372,2026-10-27,14,Kolkata,Sweet Tooth,Desserts,273.06,Card,Delivered,41.3
+FD10473,2026-08-18,12,Mumbai,Sweet Tooth,Desserts,116.01,UPI,Delayed,49.4
+FD10141,2026-08-01,20,Bengaluru,Dosa Plaza,South Indian,100.62,Cash,Delayed,58.7
+FD11356,2026-10-27,15,Mumbai,Pizza Corner,Pizza,498.09,Cash,Cancelled,
+FD10412,2026-09-10,20,Pune,Biryani House,Biryani,340.45,Card,Delivered,40.5
+FD11375,2026-08-25,12,Delhi,Curry Leaf,South Indian,317.16,UPI,Delivered,37.8
+FD10350,2026-08-10,19,Mumbai,Noodle Bar,Chinese,353.17,UPI,Delayed,49.2
+FD11474,2026-08-27,21,Delhi,Sweet Tooth,Desserts,240.93,UPI,Delayed,51.0
+FD10624,2026-08-28,15,Chennai,Curry Leaf,South Indian,302.39,Card,Delivered,28.1
+FD10333,2026-08-15,15,Mumbai,Healthy Bowl,Healthy,380.01,Card,Delayed,49.0
+FD10318,2026-09-30,20,Pune,Pizza Corner,Pizza,619.91,Cash,Delivered,18.8
+FD11117,2026-09-14,12,Hyderabad,Dosa Plaza,South Indian,176.13,UPI,Delayed,73.2
+FD10199,2026-09-18,19,Meerut,Biryani House,Biryani,190.31,Wallet,Delivered,37.8
+FD10217,2026-09-18,19,Mumbai,Curry Leaf,South Indian,253.91,Card,Delivered,34.9
+FD10870,2026-09-10,19,Hyderabad,Noodle Bar,Chinese,341.03,Cash,Delivered,40.1
+FD10291,2026-09-07,12,Mumbai,Tandoori Nights,North Indian,291.41,Cash,Delivered,
+FD11224,2026-10-03,20,Delhi,Dragon Wok,Chinese,318.05,UPI,Delayed,45.2
+FD10549,2026-08-04,13,Delhi,Pizza Corner,Pizza,404.06,Card,Delayed,48.5
+FD10938,2026-08-25,19,Delhi,Wrap Station,Fast Food,218.34,UPI,Delayed,46.1
+FD10132,2026-09-08,12,Mumbai,Biryani House,Biryani,370.78,Cash,Cancelled,
+FD11493,2026-09-20,19,Pune,Noodle Bar,Chinese,397.71,Cash,Delivered,29.5
+FD10205,2026-09-25,22,Chennai,Pizza Corner,Pizza,285.44,UPI,Delayed,47.5
+FD10711,2026-09-17,17,Bengaluru,Burger Barn,Burgers,190.88,Wallet,Delivered,44.1
+FD11206,2026-10-20,18,Hyderabad,Tandoori Nights,North Indian,444.37,UPI,Delivered,35.7
+FD10886,2026-09-13,19,Mumbai,Sweet Tooth,Desserts,182.29,Card,Delayed,49.3
+FD10319,2026-08-06,18,Mumbai,Dosa Plaza,South Indian,240.19,Card,Delivered,35.8
+FD11414,2026-10-16,10,Bengaluru,Noodle Bar,Chinese,260.48,UPI,Delivered,39.3
+FD10265,2026-09-03,11,Bengaluru,Burger Barn,Burgers,269.08,UPI,Delayed,52.9
+FD10726,2026-09-23,19,Chennai,Healthy Bowl,Healthy,345.87,Cash,Delivered,28.7
+FD10895,2026-09-20,23,Mumbai,Dragon Wok,Chinese,436.95,Cash,Delivered,31.9
+FD11395,2026-08-10,11,Delhi,Sweet Tooth,Desserts,80.0,Card,Cancelled,
+FD10122,2026-10-16,20,Pune,Tandoori Nights,North Indian,537.32,UPI,Delayed,47.4
+FD11431,2026-08-20,11,Bengaluru,Dragon Wok,Chinese,269.49,UPI,Delayed,73.1
+FD10720,2026-09-24,20,Delhi,Curry Leaf,South Indian,392.69,Card,Delayed,65.7
+FD10158,2026-08-21,19,Hyderabad,Pizza Corner,Pizza,476.1,Wallet,Delayed,46.1
+FD10587,2026-09-07,20,Delhi,Healthy Bowl,Healthy,270.85,Card,Delayed,57.9
+FD10403,2026-10-12,18,Pune,Dosa Plaza,South Indian,341.52,UPI,Delivered,30.3
+FD10855,2026-10-01,21,Meerut,Curry Leaf,South Indian,336.08,Wallet,Delivered,42.8
+FD10066,2026-10-29,23,Hyderabad,Dosa Plaza,South Indian,242.41,Cash,Delivered,20.8
+FD10200,2026-10-30,23,Bengaluru,Pizza Corner,Pizza,429.62,Cash,Delivered,36.5
+FD10612,2026-08-10,20,Delhi,Noodle Bar,Chinese,259.21,UPI,Delivered,39.5
+FD10028,2026-10-08,20,Mumbai,Noodle Bar,Chinese,571.46,UPI,Delivered,43.7
+FD11333,2026-08-21,18,Bengaluru,Wrap Station,Fast Food,208.01,Card,Delivered,27.0
+FD10108,2026-09-25,18,Hyderabad,Healthy Bowl,Healthy,341.7,UPI,Delivered,35.8
+FD11324,2026-09-18,12,Delhi,Burger Barn,Burgers,464.89,Wallet,Delivered,39.5
+FD10151,2026-09-20,21,Bengaluru,Dragon Wok,Chinese,472.63,Cash,Delivered,17.4
+FD11262,2026-09-23,19,Bengaluru,Noodle Bar,Chinese,326.98,UPI,Delivered,36.5
+FD11334,2026-10-03,20,Pune,Sweet Tooth,Desserts,144.17,Cash,Delivered,36.3
+FD10417,2026-09-18,16,Chennai,Pizza Corner,Pizza,411.85,Cash,Delivered,32.5
+FD10233,2026-09-08,20,Hyderabad,Sweet Tooth,Desserts,208.82,Wallet,Delivered,36.6
+FD10668,2026-08-04,20,Delhi,Dosa Plaza,South Indian,261.8,UPI,Delayed,49.2
+FD10814,2026-10-08,19,Pune,Spice Route,North Indian,290.22,UPI,Delivered,39.4
+FD11386,2026-10-10,16,Mumbai,Dosa Plaza,South Indian,182.63,UPI,Delivered,32.4
+FD10569,2026-09-28,21,Delhi,Wrap Station,Fast Food,176.0,UPI,Delivered,44.1
+FD10198,2026-10-09,21,Bengaluru,Biryani House,Biryani,204.25,UPI,Delivered,43.2
+FD10426,2026-09-04,11,Mumbai,Spice Route,North Indian,376.47,Card,Delivered,30.1
+FD11461,2026-08-20,10,Chennai,Dosa Plaza,South Indian,235.85,Cash,Delivered,34.4
+FD10378,2026-08-28,21,Delhi,Pizza Corner,Pizza,519.5,Cash,Delivered,29.1
+FD11326,2026-10-11,13,Kolkata,Burger Barn,Burgers,210.11,UPI,Delayed,47.9
+FD10979,2026-08-21,19,Meerut,Tandoori Nights,North Indian,390.41,Cash,Delivered,36.4
+FD10571,2026-08-04,21,Mumbai,Tandoori Nights,North Indian,499.58,UPI,Delayed,49.5
+FD11205,2026-10-11,13,Bengaluru,Biryani House,Biryani,242.37,Card,Delayed,46.4
+FD10472,2026-08-02,10,Bengaluru,Noodle Bar,Chinese,305.26,UPI,Delivered,31.7
+FD10594,2026-08-17,19,Mumbai,Healthy Bowl,Healthy,296.39,UPI,Delivered,36.0
+FD10004,2026-10-02,20,Delhi,Tandoori Nights,North Indian,383.42,UPI,Delivered,37.7
+FD11425,2026-10-22,22,Hyderabad,Dosa Plaza,South Indian,233.05,Card,Delivered,39.0
+FD10896,2026-09-07,19,Mumbai,Curry Leaf,South Indian,323.67,Cash,Delivered,35.5
+FD11405,2026-10-27,18,Bengaluru,Biryani House,Biryani,387.16,UPI,Delivered,39.1
+FD11158,2026-10-04,12,Mumbai,Spice Route,North Indian,393.31,Cash,Delivered,36.5
+FD11423,2026-08-23,22,Meerut,Burger Barn,Burgers,293.21,Wallet,Delivered,20.7
+FD11227,2026-08-09,20,Mumbai,Burger Barn,Burgers,238.1,UPI,Delayed,86.1
+FD10747,2026-08-06,12,Delhi,Sweet Tooth,Desserts,212.06,Wallet,Delivered,37.0
+FD10523,2026-08-25,19,Bengaluru,Sweet Tooth,Desserts,123.5,UPI,Delivered,35.4
+FD10149,2026-09-22,17,Kolkata,Curry Leaf,South Indian,246.0,UPI,Delivered,23.1
+FD10317,2026-08-27,19,Mumbai,Curry Leaf,South Indian,371.91,Card,Delivered,37.7
+FD10161,2026-08-19,19,Delhi,Dragon Wok,Chinese,136.56,Cash,Delivered,36.7
+FD10966,2026-10-31,21,Mumbai,Burger Barn,Burgers,307.82,Cash,Cancelled,
+FD10479,2026-09-28,20,Bengaluru,Curry Leaf,South Indian,160.81,Cash,Delivered,44.4
+FD11016,2026-10-23,17,Meerut,Wrap Station,Fast Food,329.33,Cash,Delivered,20.3
+FD10819,2026-09-08,23,Bengaluru,Wrap Station,Fast Food,287.2,Wallet,Delivered,37.4
+FD11361,2026-08-22,12,Pune,Spice Route,North Indian,450.38,UPI,Delivered,32.4
+FD10639,2026-08-05,18,Mumbai,Dragon Wok,Chinese,161.92,Wallet,Delivered,34.8
+FD10113,2026-09-19,20,Mumbai,Noodle Bar,Chinese,277.2,Card,Delayed,46.3
+FD10885,2026-08-15,22,Bengaluru,Dragon Wok,Chinese,261.82,UPI,Delayed,47.3
+FD10082,2026-10-24,10,Delhi,Spice Route,North Indian,390.0,UPI,Delivered,25.0
+FD10611,2026-09-26,20,Delhi,Healthy Bowl,Healthy,336.47,Wallet,Delivered,38.3
+FD10145,2026-10-01,17,Delhi,Healthy Bowl,Healthy,159.34,UPI,Delayed,45.7
+FD11240,2026-08-31,13,Delhi,Tandoori Nights,North Indian,461.06,Card,Delivered,38.3
+FD10680,2026-10-26,18,Mumbai,Dosa Plaza,South Indian,354.14,UPI,Delivered,42.2
+FD11358,2026-08-22,19,Hyderabad,Wrap Station,Fast Food,80.0,UPI,Delivered,27.8
+FD10374,2026-09-22,10,Bengaluru,Noodle Bar,Chinese,299.62,Cash,Delivered,28.2
+FD10655,2026-09-03,19,Delhi,Sweet Tooth,Desserts,80.0,UPI,Cancelled,
+FD11103,2026-10-08,17,Hyderabad,Dosa Plaza,South Indian,147.95,Wallet,Delivered,37.4
+FD11044,2026-09-25,18,Delhi,Curry Leaf,South Indian,98.32,UPI,Cancelled,
+FD10138,2026-09-01,17,Mumbai,Noodle Bar,Chinese,466.57,UPI,Delayed,49.0
+FD10092,2026-09-17,20,Mumbai,Dragon Wok,Chinese,99.44,Cash,Delayed,56.2
+FD11153,2026-08-28,13,Hyderabad,Biryani House,Biryani,474.14,Cash,Delayed,50.5
+FD10353,2026-08-06,11,Delhi,Noodle Bar,Chinese,445.89,UPI,Delivered,45.0
+FD11189,2026-10-01,19,Delhi,Curry Leaf,South Indian,146.62,UPI,Delivered,39.6
+FD10382,2026-08-07,20,Chennai,Biryani House,Biryani,433.52,UPI,Delayed,49.8
+FD11441,2026-09-08,19,Delhi,Biryani House,Biryani,478.54,Card,Delivered,26.4
+FD10002,2026-10-25,19,Mumbai,Pizza Corner,Pizza,551.45,UPI,Cancelled,
+FD11252,2026-09-24,19,Mumbai,Burger Barn,Burgers,183.86,Cash,Delivered,30.2
+FD10841,2026-09-15,20,Delhi,Curry Leaf,South Indian,164.57,UPI,Cancelled,
+FD10932,2026-08-12,11,Bengaluru,Sweet Tooth,Desserts,132.18,UPI,Delivered,27.0
+FD11232,2026-09-17,18,Bengaluru,Tandoori Nights,North Indian,256.02,Cash,Cancelled,
+FD10379,2026-10-18,21,Delhi,Pizza Corner,Pizza,534.28,UPI,Delivered,42.8
+FD11373,2026-10-17,14,Meerut,Wrap Station,Fast Food,205.5,UPI,Delivered,23.7
+FD10943,2026-10-23,21,Pune,Burger Barn,Burgers,364.57,Wallet,Delayed,47.8
+FD11399,2026-10-26,19,Mumbai,Noodle Bar,Chinese,207.42,UPI,Delivered,41.4
+FD10676,2026-08-22,17,Hyderabad,Noodle Bar,Chinese,497.49,UPI,Delivered,19.2
+FD10636,2026-08-25,11,Delhi,Dosa Plaza,South Indian,129.01,UPI,Delivered,41.7
+FD11308,2026-10-02,21,Delhi,Spice Route,North Indian,258.24,UPI,Delivered,36.7
+FD10188,2026-08-20,12,Delhi,Burger Barn,Burgers,134.21,UPI,Delayed,53.4
+FD10088,2026-08-05,19,Mumbai,Tandoori Nights,North Indian,466.01,Card,Delayed,74.6
+FD10540,2026-08-12,20,Bengaluru,Wrap Station,Fast Food,195.27,Card,Delivered,39.7
+FD10809,2026-08-28,21,Bengaluru,Biryani House,Biryani,308.63,Card,Delivered,39.7
+FD10344,2026-08-13,20,Chennai,Pizza Corner,Pizza,368.19,UPI,Delivered,35.7
+FD10643,2026-10-18,20,Pune,Biryani House,Biryani,600.3,UPI,Delivered,33.6
+FD11255,2026-08-29,20,Kolkata,Wrap Station,Fast Food,178.8,Wallet,Delivered,33.5
+FD10007,2026-08-11,19,Delhi,Pizza Corner,Pizza,537.15,Card,Delivered,35.3
+FD10249,2026-09-07,11,Delhi,Spice Route,North Indian,331.42,Wallet,Delivered,27.8
+FD10902,2026-08-22,22,Pune,Sweet Tooth,Desserts,139.46,UPI,Delivered,34.6
+FD10032,2026-08-10,21,Kolkata,Tandoori Nights,North Indian,460.9,Wallet,Delivered,38.8
+FD10248,2026-08-17,16,Mumbai,Spice Route,North Indian,391.04,UPI,Delivered,39.3
+FD10325,2026-10-08,23,Bengaluru,Dragon Wok,Chinese,269.42,Card,Delivered,31.1
+FD11137,2026-10-11,18,Meerut,Spice Route,North Indian,376.97,Wallet,Delivered,20.2
+FD10850,2026-09-17,19,Chennai,Pizza Corner,Pizza,448.81,Wallet,Delivered,30.7
+FD10181,2026-10-13,22,Delhi,Dragon Wok,Chinese,407.66,Wallet,Delayed,57.1
+FD10670,2026-08-13,11,Kolkata,Dosa Plaza,South Indian,156.89,Card,Delayed,48.6
+FD11438,2026-10-12,23,Mumbai,Wrap Station,Fast Food,246.71,Card,Delivered,26.5
+FD11048,2026-08-22,12,Kolkata,Healthy Bowl,Healthy,357.2,UPI,Cancelled,
+FD10877,2026-10-23,18,Kolkata,Curry Leaf,South Indian,391.27,UPI,Delayed,92.8
+FD11351,2026-08-15,20,Chennai,Wrap Station,Fast Food,263.05,Card,Delivered,41.8
+FD10187,2026-10-14,16,Kolkata,Curry Leaf,South Indian,337.69,UPI,Delivered,28.9
+FD10510,2026-08-01,11,Bengaluru,Noodle Bar,Chinese,224.96,UPI,Delivered,33.1
+FD10269,2026-08-11,12,Bengaluru,Curry Leaf,South Indian,166.65,Cash,Delivered,34.8
+FD10582,2026-10-07,22,Pune,Spice Route,North Indian,342.81,Cash,Delivered,
+FD11286,2026-08-17,13,Meerut,Dosa Plaza,South Indian,80.0,Wallet,Cancelled,
+FD10775,2026-09-17,21,Bengaluru,Sweet Tooth,Desserts,80.0,Card,Delivered,36.5
+FD10465,2026-09-17,20,Kolkata,Tandoori Nights,North Indian,363.54,UPI,Delivered,39.0
+FD10167,2026-09-12,11,Pune,Dragon Wok,Chinese,324.67,Card,Delivered,35.9
+FD10980,2026-09-02,18,Mumbai,Dragon Wok,Chinese,441.02,Card,Delivered,34.0
+FD10087,2026-08-02,23,Delhi,Noodle Bar,Chinese,390.48,UPI,Delivered,40.0
+FD10425,2026-08-08,13,Delhi,Sweet Tooth,Desserts,131.99,UPI,Delivered,34.3
+FD11306,2026-09-05,13,Delhi,Tandoori Nights,North Indian,388.71,UPI,Delivered,43.0
+FD11096,2026-08-31,14,Pune,Dosa Plaza,South Indian,235.86,UPI,Delivered,22.9
+FD10449,2026-09-17,12,Mumbai,Noodle Bar,Chinese,325.38,UPI,Delayed,55.8
+FD11367,2026-09-09,20,Hyderabad,Wrap Station,Fast Food,339.2,UPI,Delayed,45.8
+FD10124,2026-10-15,12,Hyderabad,Tandoori Nights,North Indian,398.05,Cash,Delivered,26.8
+FD11170,2026-09-30,20,Bengaluru,Curry Leaf,South Indian,379.36,UPI,Delivered,34.7
+FD10244,2026-08-20,21,Bengaluru,Tandoori Nights,North Indian,444.96,UPI,Delivered,29.8
+FD10898,2026-09-10,18,Hyderabad,Biryani House,Biryani,430.55,UPI,Delivered,42.8
+FD11295,2026-09-26,18,Delhi,Tandoori Nights,North Indian,649.74,UPI,Delivered,40.6
+FD10491,2026-08-20,23,Mumbai,Dragon Wok,Chinese,258.69,UPI,Delivered,33.2
+FD10170,2026-09-07,20,Meerut,Wrap Station,Fast Food,173.45,UPI,Delivered,40.8
+FD11171,2026-10-12,20,Mumbai,Healthy Bowl,Healthy,293.4,UPI,Delayed,61.9
+FD10963,2026-09-09,22,Mumbai,Spice Route,North Indian,467.63,Card,Delivered,30.1
+FD11043,2026-10-13,20,Hyderabad,Tandoori Nights,North Indian,477.52,Cash,Delayed,46.4
+FD10955,2026-09-07,20,Chennai,Dosa Plaza,South Indian,228.18,UPI,Delayed,46.7
+FD10304,2026-08-23,13,Bengaluru,Wrap Station,Fast Food,275.1,UPI,Delivered,44.3
+FD10698,2026-10-04,11,Meerut,Burger Barn,Burgers,404.98,UPI,Delivered,45.0
+FD10748,2026-10-19,20,Mumbai,Curry Leaf,South Indian,80.0,Wallet,Delivered,34.5
+FD10263,2026-09-29,20,Chennai,Pizza Corner,Pizza,372.07,UPI,Delivered,39.6
+FD10058,2026-09-18,12,Mumbai,Wrap Station,Fast Food,168.05,Cash,Delayed,54.0
+FD10250,2026-09-04,20,Hyderabad,Biryani House,Biryani,404.93,UPI,Delivered,43.3
+FD10029,2026-08-16,14,Kolkata,Healthy Bowl,Healthy,287.96,UPI,Delivered,35.1
+FD11285,2026-08-14,20,Mumbai,Pizza Corner,Pizza,401.34,UPI,Delayed,57.5
+FD10020,2026-10-08,21,Kolkata,Biryani House,Biryani,369.32,Card,Delayed,52.9
+FD11064,2026-08-26,20,Mumbai,Spice Route,North Indian,256.86,Wallet,Delivered,34.2
+FD10930,2026-08-24,11,Pune,Wrap Station,Fast Food,332.6,Card,Delayed,72.3
+FD11483,2026-09-16,12,Bengaluru,Biryani House,Biryani,178.11,Cash,Delivered,19.1
+FD11035,2026-10-28,22,Mumbai,Pizza Corner,Pizza,491.43,UPI,Delayed,57.6
+FD10478,2026-09-29,11,Mumbai,Spice Route,North Indian,180.08,Card,Delivered,31.9
+FD11343,2026-09-20,11,Mumbai,Pizza Corner,Pizza,481.65,UPI,Delivered,40.4
+FD10212,2026-09-26,22,Mumbai,Healthy Bowl,Healthy,308.53,Card,Delivered,23.6
+FD11487,2026-10-11,15,Mumbai,Biryani House,Biryani,462.07,UPI,Delayed,57.3
+FD11242,2026-09-05,18,Mumbai,Noodle Bar,Chinese,375.18,UPI,Delayed,48.1
+FD10476,2026-09-18,15,Hyderabad,Burger Barn,Burgers,268.0,Card,Delivered,25.8
+FD10457,2026-10-14,21,Bengaluru,Biryani House,Biryani,334.02,UPI,Delivered,
+FD11145,2026-08-21,20,Delhi,Tandoori Nights,North Indian,354.83,Card,Delayed,50.6
+FD10052,2026-08-21,19,Bengaluru,Curry Leaf,South Indian,179.44,UPI,Delivered,33.7
+FD11010,2026-09-23,18,Mumbai,Wrap Station,Fast Food,243.48,Card,Delivered,37.7
+FD10585,2026-09-28,11,Delhi,Dragon Wok,Chinese,233.22,UPI,Delivered,42.0
+FD11304,2026-08-31,18,Meerut,Noodle Bar,Chinese,286.47,UPI,Delivered,28.6
+FD10059,2026-09-11,17,Delhi,Sweet Tooth,Desserts,330.95,Cash,Delivered,40.1
+FD11470,2026-08-24,19,Hyderabad,Noodle Bar,Chinese,109.05,Card,Delivered,18.1
+FD10627,2026-09-21,13,Bengaluru,Dosa Plaza,South Indian,506.19,UPI,Delivered,39.1
+FD10049,2026-08-09,12,Delhi,Dragon Wok,Chinese,243.72,Card,Delivered,41.4
+FD11072,2026-09-16,11,Chennai,Spice Route,North Indian,344.51,Wallet,Delayed,48.1
+FD10958,2026-09-11,12,Chennai,Dragon Wok,Chinese,378.9,Card,Delivered,20.8
+FD10043,2026-09-10,14,Bengaluru,Burger Barn,Burgers,307.18,Cash,Delivered,24.7
+FD11305,2026-09-27,17,Hyderabad,Sweet Tooth,Desserts,191.28,UPI,Delivered,31.3
+FD10707,2026-09-07,21,Delhi,Burger Barn,Burgers,332.04,UPI,Cancelled,
+FD10878,2026-09-04,17,Mumbai,Noodle Bar,Chinese,157.31,Card,Delivered,31.2
+FD11078,2026-10-28,13,Mumbai,Burger Barn,Burgers,201.31,Card,Delayed,47.7
+FD10127,2026-09-11,17,Hyderabad,Pizza Corner,Pizza,450.12,Wallet,Delivered,14.4
+FD10981,2026-08-30,21,Bengaluru,Spice Route,North Indian,405.88,Card,Delayed,48.9
+FD10880,2026-10-24,13,Mumbai,Biryani House,Biryani,391.88,Card,Delayed,49.5
+FD10974,2026-09-05,19,Bengaluru,Biryani House,Biryani,538.26,UPI,Delivered,34.6
+FD11318,2026-09-04,15,Hyderabad,Biryani House,Biryani,476.01,Card,Delivered,40.9
+FD10313,2026-09-03,19,Hyderabad,Dosa Plaza,South Indian,106.84,UPI,Delayed,46.2
+FD10746,2026-10-29,22,Chennai,Healthy Bowl,Healthy,264.88,Cash,Delivered,29.3
+FD10102,2026-10-21,20,Meerut,Spice Route,North Indian,305.05,Card,Delivered,32.5
+FD10302,2026-10-30,20,Meerut,Noodle Bar,Chinese,390.02,UPI,Delivered,23.8
+FD11028,2026-10-03,17,Delhi,Pizza Corner,Pizza,387.56,Wallet,Delivered,37.5
+FD10120,2026-09-08,19,Delhi,Biryani House,Biryani,380.77,Card,Delivered,39.4
+FD10288,2026-10-20,12,Meerut,Dosa Plaza,South Indian,328.67,UPI,Delivered,26.3
+FD10842,2026-08-25,11,Delhi,Noodle Bar,Chinese,242.85,UPI,Delivered,40.0
+FD11488,2026-10-22,19,Meerut,Sweet Tooth,Desserts,218.46,Wallet,Delivered,27.4
+FD10875,2026-09-27,19,Kolkata,Tandoori Nights,North Indian,452.22,UPI,Delivered,36.4
+FD11249,2026-10-11,17,Meerut,Curry Leaf,South Indian,300.3,UPI,Delivered,31.7
+FD10340,2026-08-08,20,Delhi,Noodle Bar,Chinese,380.16,UPI,Delayed,94.3
+FD10820,2026-09-17,23,Hyderabad,Healthy Bowl,Healthy,264.7,Wallet,Delivered,37.7
+FD10031,2026-08-22,13,Delhi,Curry Leaf,South Indian,421.6,UPI,Cancelled,
+FD11350,2026-10-09,19,Mumbai,Noodle Bar,Chinese,293.27,UPI,Delayed,50.6
+FD11000,2026-09-23,14,Bengaluru,Spice Route,North Indian,269.87,UPI,Delivered,40.8
+FD10202,2026-08-21,20,Bengaluru,Spice Route,North Indian,219.35,UPI,Delayed,45.0
+FD10363,2026-10-25,11,Chennai,Curry Leaf,South Indian,135.44,Card,Delivered,34.3
+FD10703,2026-10-28,20,Meerut,Spice Route,North Indian,228.73,Cash,Cancelled,
+FD10065,2026-10-06,22,Kolkata,Sweet Tooth,Desserts,173.56,Cash,Delivered,42.7
+FD11496,2026-08-15,22,Chennai,Noodle Bar,Chinese,412.68,Cash,Delivered,25.6
+FD10892,2026-08-11,17,Pune,Dragon Wok,Chinese,475.89,UPI,Delivered,39.5
+FD10179,2026-10-20,18,Bengaluru,Spice Route,North Indian,187.6,Cash,Delivered,16.7
+FD11271,2026-09-23,16,Mumbai,Tandoori Nights,North Indian,343.73,UPI,Delivered,32.2
+FD10229,2026-10-22,17,Pune,Dosa Plaza,South Indian,228.51,Cash,Delivered,38.0
+FD11250,2026-10-01,18,Bengaluru,Sweet Tooth,Desserts,215.72,Card,Delayed,76.2
+FD10081,2026-10-02,13,Bengaluru,Curry Leaf,South Indian,305.43,Wallet,Delivered,29.6
+FD10989,2026-08-11,14,Kolkata,Wrap Station,Fast Food,333.6,Card,Delivered,41.2
+FD11408,2026-10-09,17,Delhi,Tandoori Nights,North Indian,399.88,Wallet,Delivered,41.9
+FD11241,2026-10-11,13,Meerut,Healthy Bowl,Healthy,137.93,UPI,Delivered,38.3
+FD10361,2026-09-11,22,Kolkata,Sweet Tooth,Desserts,287.84,Cash,Delivered,41.1
+FD10613,2026-08-28,14,Kolkata,Burger Barn,Burgers,243.06,Card,Delivered,39.3
+FD11066,2026-10-08,12,Bengaluru,Pizza Corner,Pizza,560.75,UPI,Delayed,54.7
+FD10328,2026-10-15,20,Meerut,Spice Route,North Indian,180.7,Wallet,Delivered,25.4
+FD10817,2026-08-03,21,Mumbai,Biryani House,Biryani,512.26,Cash,Delivered,40.7
+FD10285,2026-10-14,21,Bengaluru,Sweet Tooth,Desserts,274.45,Card,Delivered,29.3
+FD10810,2026-08-01,23,Mumbai,Spice Route,North Indian,310.27,UPI,Delivered,44.1
+FD11353,2026-09-10,12,Meerut,Curry Leaf,South Indian,361.74,UPI,Delivered,31.8
+FD10778,2026-10-06,11,Chennai,Biryani House,Biryani,363.23,UPI,Delivered,36.3
+FD10615,2026-10-27,22,Delhi,Noodle Bar,Chinese,379.39,UPI,Delivered,37.1
+FD10210,2026-08-07,20,Chennai,Tandoori Nights,North Indian,247.06,Card,Delivered,35.2
+FD10856,2026-08-22,22,Bengaluru,Pizza Corner,Pizza,336.55,Cash,Delayed,90.2
+FD11374,2026-10-20,12,Pune,Dosa Plaza,South Indian,374.23,UPI,Cancelled,
+FD10098,2026-10-27,11,Meerut,Dragon Wok,Chinese,366.0,UPI,Delivered,24.5
+FD10284,2026-09-06,19,Kolkata,Pizza Corner,Pizza,543.45,UPI,Delayed,48.3
+FD11070,2026-09-03,12,Mumbai,Healthy Bowl,Healthy,399.19,UPI,Delivered,31.2
+FD10596,2026-08-02,18,Delhi,Wrap Station,Fast Food,110.31,UPI,Delivered,37.6
+FD10604,2026-08-21,19,Hyderabad,Wrap Station,Fast Food,174.2,UPI,Delivered,30.8
+FD10812,2026-10-15,20,Kolkata,Noodle Bar,Chinese,80.0,Cash,Delayed,46.7
+FD10871,2026-10-10,15,Delhi,Dosa Plaza,South Indian,273.93,UPI,Delivered,34.7
+FD11132,2026-09-17,17,Hyderabad,Sweet Tooth,Desserts,184.76,Cash,Delivered,38.3
+FD11451,2026-10-30,14,Pune,Biryani House,Biryani,264.93,UPI,Cancelled,
+FD10782,2026-10-19,22,Delhi,Curry Leaf,South Indian,155.8,UPI,Delivered,30.7
+FD11122,2026-09-06,11,Pune,Burger Barn,Burgers,351.15,UPI,Delivered,24.5
+FD11057,2026-10-15,19,Delhi,Noodle Bar,Chinese,208.25,UPI,Delayed,45.6
+FD10939,2026-10-29,19,Delhi,Burger Barn,Burgers,262.83,Card,Delivered,32.3
+FD10621,2026-09-21,18,Pune,Tandoori Nights,North Indian,361.79,Cash,Delivered,26.6
+FD10362,2026-10-26,18,Bengaluru,Noodle Bar,Chinese,294.32,UPI,Cancelled,
+FD10586,2026-10-31,11,Hyderabad,Healthy Bowl,Healthy,299.57,UPI,Delivered,18.5
+FD11497,2026-08-21,20,Chennai,Spice Route,North Indian,258.67,UPI,Delivered,35.6
+FD10563,2026-08-05,15,Mumbai,Burger Barn,Burgers,108.64,Wallet,Delayed,53.7
+FD10336,2026-10-05,21,Chennai,Spice Route,North Indian,242.85,UPI,Delivered,21.7
+FD10133,2026-08-25,19,Mumbai,Dragon Wok,Chinese,295.98,Cash,Delivered,35.3
+FD11127,2026-09-14,21,Delhi,Tandoori Nights,North Indian,342.04,Wallet,Delivered,42.3
+FD10354,2026-08-06,20,Mumbai,Dosa Plaza,South Indian,320.23,UPI,Delayed,48.6
+FD10073,2026-08-19,10,Delhi,Dragon Wok,Chinese,261.79,Card,Delayed,47.7
+FD10555,2026-08-12,19,Chennai,Tandoori Nights,North Indian,415.6,Wallet,Delivered,30.8
+FD10144,2026-10-13,21,Delhi,Curry Leaf,South Indian,316.36,UPI,Delayed,57.3
+FD10792,2026-09-22,19,Meerut,Tandoori Nights,North Indian,502.64,Cash,Delivered,36.5
+FD11428,2026-08-07,18,Mumbai,Noodle Bar,Chinese,315.99,Card,Delayed,45.5
+FD11215,2026-08-19,19,Mumbai,Burger Barn,Burgers,285.22,Cash,Delivered,35.8
+FD10516,2026-09-24,14,Kolkata,Pizza Corner,Pizza,397.48,Cash,Cancelled,
+FD10381,2026-08-29,20,Pune,Pizza Corner,Pizza,428.65,UPI,Delivered,27.8
+FD10686,2026-08-15,18,Bengaluru,Noodle Bar,Chinese,205.57,Cash,Delivered,27.1
+FD10290,2026-08-13,21,Mumbai,Wrap Station,Fast Food,155.59,Card,Delivered,41.8
+FD10315,2026-10-13,22,Mumbai,Sweet Tooth,Desserts,199.83,UPI,Delayed,45.1
+FD11001,2026-10-16,19,Mumbai,Burger Barn,Burgers,243.97,Cash,Delivered,40.2
+FD10846,2026-09-16,16,Pune,Spice Route,North Indian,202.4,UPI,Delivered,35.4
+FD10945,2026-08-17,22,Meerut,Sweet Tooth,Desserts,100.86,Card,Delivered,23.4
+FD11286,2026-08-17,13,Meerut,Dosa Plaza,South Indian,80.0,Wallet,Cancelled,
+FD10597,2026-10-04,17,Chennai,Dosa Plaza,South Indian,202.03,Cash,Delayed,47.1
+FD10335,2026-10-11,17,Delhi,Spice Route,North Indian,343.08,UPI,Delayed,54.6
+FD10209,2026-09-20,11,Meerut,Pizza Corner,Pizza,187.46,Card,Delivered,12.0
+FD10708,2026-09-29,19,Kolkata,Noodle Bar,Chinese,425.99,Card,Delivered,34.8
+FD10408,2026-10-17,20,Chennai,Wrap Station,Fast Food,236.39,Card,Delivered,37.2
+FD11071,2026-10-05,13,Chennai,Pizza Corner,Pizza,407.31,UPI,Delivered,36.7
+FD11398,2026-08-14,20,Delhi,Spice Route,North Indian,309.15,UPI,Delayed,83.5
+FD11083,2026-08-01,17,Kolkata,Dosa Plaza,South Indian,200.05,Card,Cancelled,
+FD10730,2026-09-27,20,Kolkata,Tandoori Nights,North Indian,639.97,Card,Delivered,39.8
+FD10155,2026-08-09,13,Mumbai,Biryani House,Biryani,469.59,Wallet,Delayed,45.8
+FD10647,2026-08-09,13,Mumbai,Sweet Tooth,Desserts,204.74,UPI,Cancelled,
+FD10176,2026-08-25,13,Pune,Healthy Bowl,Healthy,296.17,UPI,Delivered,31.6
+FD10008,2026-08-03,17,Mumbai,Healthy Bowl,Healthy,377.22,UPI,Cancelled,
+FD11148,2026-08-16,14,Hyderabad,Spice Route,North Indian,278.34,UPI,Delivered,23.4
+FD11364,2026-10-19,20,Mumbai,Healthy Bowl,Healthy,455.82,UPI,Delivered,32.8
+FD10567,2026-08-31,10,Chennai,Sweet Tooth,Desserts,194.57,Wallet,Delivered,36.1
+FD10153,2026-09-17,22,Mumbai,Dragon Wok,Chinese,213.12,UPI,Cancelled,
+FD10553,2026-08-17,11,Delhi,Tandoori Nights,North Indian,354.24,UPI,Delivered,37.9
+FD11201,2026-08-15,12,Delhi,Burger Barn,Burgers,264.08,UPI,Delivered,38.8
+FD11204,2026-09-16,19,Delhi,Sweet Tooth,Desserts,113.23,Card,Delayed,52.7
+FD10239,2026-10-27,20,Delhi,Wrap Station,Fast Food,231.56,UPI,Delivered,43.3
+FD10360,2026-10-22,11,Bengaluru,Spice Route,North Indian,375.83,UPI,Cancelled,
+FD10079,2026-08-20,14,Chennai,Dosa Plaza,South Indian,200.06,UPI,Delivered,
+FD10228,2026-08-19,20,Delhi,Pizza Corner,Pizza,542.02,Wallet,Delivered,41.3
+FD10603,2026-10-01,13,Delhi,Dosa Plaza,South Indian,134.92,UPI,Delivered,33.5
+FD10574,2026-08-30,12,Pune,Spice Route,North Indian,611.71,Card,Delivered,33.6
+FD10117,2026-08-21,20,Bengaluru,Burger Barn,Burgers,361.9,UPI,Delivered,38.4
+FD10324,2026-10-04,19,Meerut,Biryani House,Biryani,377.08,UPI,Delivered,27.6
+FD10147,2026-09-28,17,Kolkata,Curry Leaf,South Indian,318.5,UPI,Delivered,32.8
+FD10440,2026-09-16,20,Pune,Healthy Bowl,Healthy,332.56,Card,Delivered,21.9
+FD11452,2026-10-25,12,Meerut,Curry Leaf,South Indian,306.48,Wallet,Cancelled,
+FD10960,2026-09-16,15,Delhi,Noodle Bar,Chinese,278.86,Card,Delayed,49.3
+FD10174,2026-09-29,19,Kolkata,Sweet Tooth,Desserts,234.02,UPI,Delivered,39.6
+FD11327,2026-10-09,20,Hyderabad,Tandoori Nights,North Indian,301.98,Card,Delivered,40.4
+FD10800,2026-10-24,19,Bengaluru,Burger Barn,Burgers,274.75,UPI,Cancelled,
+FD10047,2026-08-12,18,Mumbai,Biryani House,Biryani,501.82,Card,Delivered,34.3
+FD11467,2026-08-01,19,Mumbai,Curry Leaf,South Indian,84.01,UPI,Delayed,52.8
+FD11298,2026-09-05,20,Mumbai,Biryani House,Biryani,397.3,UPI,Delivered,44.0
+FD10752,2026-08-10,20,Hyderabad,Pizza Corner,Pizza,456.87,Wallet,Delivered,41.7
+FD10148,2026-08-28,21,Chennai,Sweet Tooth,Desserts,177.24,Wallet,Delivered,28.4
+FD10415,2026-08-04,23,Meerut,Pizza Corner,Pizza,355.01,Wallet,Delivered,27.6
+FD10154,2026-09-22,21,Delhi,Biryani House,Biryani,438.66,Card,Delayed,46.3
+FD10578,2026-08-16,13,Mumbai,Biryani House,Biryani,461.74,UPI,Delayed,47.1
+FD10762,2026-08-13,17,Hyderabad,Noodle Bar,Chinese,365.91,Card,Delivered,32.5
+FD10428,2026-08-23,18,Kolkata,Dragon Wok,Chinese,221.16,Card,Delivered,35.0
+FD10165,2026-10-09,15,Mumbai,Curry Leaf,South Indian,291.91,UPI,Delayed,45.4
+FD11073,2026-08-16,14,Chennai,Tandoori Nights,North Indian,486.24,Wallet,Delivered,18.7
+FD11107,2026-08-01,12,Bengaluru,Healthy Bowl,Healthy,267.85,Card,Delivered,31.5
+FD10638,2026-09-15,14,Delhi,Noodle Bar,Chinese,396.88,UPI,Delivered,34.9
+FD10566,2026-10-01,20,Kolkata,Dragon Wok,Chinese,301.12,Wallet,Delayed,58.1
+FD11342,2026-09-04,18,Bengaluru,Pizza Corner,Pizza,429.33,Wallet,Delivered,32.6
+FD11288,2026-08-30,10,Bengaluru,Healthy Bowl,Healthy,331.53,Card,Delivered,38.3
+FD10387,2026-09-21,21,Hyderabad,Dragon Wok,Chinese,376.41,Card,Delivered,37.0
+FD10236,2026-08-30,19,Delhi,Burger Barn,Burgers,320.97,UPI,Delivered,33.8
+FD10123,2026-08-09,12,Kolkata,Curry Leaf,South Indian,311.68,UPI,Delayed,83.7
+FD10096,2026-08-19,12,Mumbai,Dosa Plaza,South Indian,183.38,Card,Delivered,40.6
+FD10211,2026-08-21,18,Delhi,Dragon Wok,Chinese,262.31,Cash,Delivered,27.2
+FD10046,2026-10-18,11,Mumbai,Burger Barn,Burgers,327.45,Wallet,Delivered,42.6
+FD11102,2026-10-22,18,Kolkata,Pizza Corner,Pizza,449.03,UPI,Delivered,37.2
+FD11235,2026-10-10,19,Chennai,Curry Leaf,South Indian,267.96,UPI,Delivered,19.4
+FD10163,2026-08-26,14,Delhi,Dragon Wok,Chinese,337.96,Card,Delivered,29.4
+FD10383,2026-08-27,20,Pune,Dragon Wok,Chinese,246.7,Cash,Delivered,23.6
+FD11039,2026-10-12,19,Kolkata,Tandoori Nights,North Indian,333.75,UPI,Cancelled,
+FD11259,2026-10-01,19,Hyderabad,Dosa Plaza,South Indian,96.23,UPI,Delivered,36.8
+FD10459,2026-08-07,11,Delhi,Burger Barn,Burgers,374.98,Cash,Delivered,40.3
+FD10710,2026-08-10,11,Hyderabad,Biryani House,Biryani,357.71,Wallet,Delivered,28.7
+FD10996,2026-10-12,16,Delhi,Burger Barn,Burgers,118.58,Card,Delivered,39.5
+FD11443,2026-09-29,20,Mumbai,Tandoori Nights,North Indian,353.86,UPI,Delayed,53.8
+FD11347,2026-08-26,18,Meerut,Dragon Wok,Chinese,280.96,UPI,Delivered,37.6
+FD10753,2026-09-05,15,Meerut,Biryani House,Biryani,361.9,UPI,Delivered,18.3
+FD10191,2026-10-10,14,Delhi,Curry Leaf,South Indian,360.36,Card,Delivered,33.0
+FD11228,2026-10-20,20,Mumbai,Tandoori Nights,North Indian,381.37,UPI,Delivered,36.9
+FD10862,2026-09-24,19,Meerut,Spice Route,North Indian,287.57,Cash,Delivered,27.6
+FD10550,2026-09-14,21,Kolkata,Wrap Station,Fast Food,214.69,Card,Cancelled,
+FD10783,2026-09-02,22,Chennai,Sweet Tooth,Desserts,239.14,UPI,Delivered,37.9
+FD10598,2026-09-26,17,Bengaluru,Noodle Bar,Chinese,390.93,Card,Delivered,34.7
+FD10169,2026-09-25,22,Mumbai,Wrap Station,Fast Food,80.0,Card,Delayed,45.4
+FD10256,2026-08-07,19,Chennai,Biryani House,Biryani,362.89,UPI,Delivered,31.5
+FD10092,2026-09-17,20,Mumbai,Dragon Wok,Chinese,99.44,Cash,Delayed,56.2
+FD11335,2026-08-08,21,Delhi,Curry Leaf,South Indian,303.49,UPI,Delivered,35.9
+FD11281,2026-08-12,20,Chennai,Biryani House,Biryani,303.74,Card,Delivered,39.6
+FD10844,2026-09-19,21,Hyderabad,Spice Route,North Indian,102.09,UPI,Cancelled,
+FD10825,2026-08-05,18,Mumbai,Wrap Station,Fast Food,384.69,Cash,Delivered,35.8
+FD10891,2026-10-13,18,Hyderabad,Healthy Bowl,Healthy,226.51,Card,Delivered,23.6
+FD10588,2026-08-03,13,Mumbai,Pizza Corner,Pizza,393.84,Card,Delayed,53.2
+FD11208,2026-08-29,12,Bengaluru,Curry Leaf,South Indian,380.19,Card,Delivered,29.0
+FD10251,2026-08-07,20,Delhi,Tandoori Nights,North Indian,381.61,Cash,Delayed,55.6
+FD10371,2026-09-07,19,Bengaluru,Dosa Plaza,South Indian,196.58,Cash,Delivered,32.0
+FD11486,2026-08-13,21,Pune,Tandoori Nights,North Indian,272.76,UPI,Delivered,38.2
+FD10170,2026-09-07,20,Meerut,Wrap Station,Fast Food,173.45,UPI,Delivered,40.8
+FD10074,2026-08-27,21,Bengaluru,Noodle Bar,Chinese,156.49,UPI,Delivered,43.8
+FD11289,2026-09-27,20,Delhi,Dragon Wok,Chinese,356.47,UPI,Delayed,50.0
+FD10041,2026-10-07,19,Mumbai,Biryani House,Biryani,306.0,Cash,Delayed,47.8
+FD10779,2026-08-18,16,Hyderabad,Curry Leaf,South Indian,296.75,Cash,Delivered,33.1
+FD10912,2026-10-29,17,Mumbai,Tandoori Nights,North Indian,407.08,Cash,Delayed,46.4
+FD10394,2026-08-09,18,Hyderabad,Healthy Bowl,Healthy,296.5,UPI,Cancelled,
+FD10734,2026-08-04,19,Bengaluru,Tandoori Nights,North Indian,505.47,Card,Delayed,49.9
+FD10575,2026-10-16,13,Mumbai,Healthy Bowl,Healthy,186.99,Cash,Delivered,33.1
+FD10957,2026-10-25,12,Bengaluru,Burger Barn,Burgers,346.0,UPI,Delivered,34.8
+FD10424,2026-08-09,18,Mumbai,Dragon Wok,Chinese,303.66,UPI,Delivered,43.6
+FD10348,2026-10-04,11,Delhi,Biryani House,Biryani,347.84,UPI,Delivered,26.6
+FD10867,2026-08-17,20,Delhi,Tandoori Nights,North Indian,191.72,Card,Delivered,40.6
+FD10422,2026-10-20,14,Delhi,Curry Leaf,South Indian,315.53,Wallet,Cancelled,
+FD10607,2026-09-20,18,Mumbai,Healthy Bowl,Healthy,333.39,UPI,Delivered,31.4
+FD11140,2026-09-15,20,Mumbai,Curry Leaf,South Indian,255.69,UPI,Delivered,42.0
+FD10756,2026-09-12,13,Pune,Dragon Wok,Chinese,243.99,UPI,Delivered,31.1
+FD11251,2026-09-03,17,Bengaluru,Wrap Station,Fast Food,179.67,Cash,Delivered,26.8
+FD10721,2026-09-11,19,Bengaluru,Wrap Station,Fast Food,244.59,UPI,Delivered,34.9
+FD11175,2026-10-21,21,Bengaluru,Burger Barn,Burgers,301.27,Card,Delayed,45.6
+FD10297,2026-08-11,12,Delhi,Dosa Plaza,South Indian,235.81,UPI,Delivered,24.1
+FD11337,2026-08-08,20,Hyderabad,Wrap Station,Fast Food,431.74,Card,Delivered,
+FD10116,2026-10-10,20,Chennai,Noodle Bar,Chinese,530.06,Card,Delayed,50.1
+FD11479,2026-09-21,19,Delhi,Spice Route,North Indian,302.32,UPI,Delivered,40.6
+FD10834,2026-08-25,12,Mumbai,Biryani House,Biryani,332.76,UPI,Delivered,35.6
+FD10469,2026-08-15,20,Mumbai,Sweet Tooth,Desserts,135.73,UPI,Delayed,45.8
+FD10914,2026-08-17,10,Mumbai,Spice Route,North Indian,180.18,Wallet,Delayed,50.0
+FD10451,2026-09-22,12,Delhi,Sweet Tooth,Desserts,141.9,UPI,Delivered,
+FD11125,2026-09-26,20,Delhi,Wrap Station,Fast Food,224.97,Card,Delayed,45.9
+FD11363,2026-08-09,12,Meerut,Biryani House,Biryani,542.87,Card,Delivered,22.6
+FD11143,2026-09-22,18,Meerut,Pizza Corner,Pizza,450.07,UPI,Delivered,22.6
+FD10515,2026-10-05,13,Bengaluru,Dragon Wok,Chinese,405.28,Cash,Delivered,43.7
+FD10483,2026-10-10,13,Mumbai,Healthy Bowl,Healthy,411.24,UPI,Delayed,51.7
+FD10797,2026-09-25,22,Bengaluru,Biryani House,Biryani,421.42,Cash,Delivered,31.3
+FD10741,2026-10-04,19,Hyderabad,Burger Barn,Burgers,384.41,Wallet,Delivered,28.9
+FD11264,2026-10-10,17,Mumbai,Dosa Plaza,South Indian,169.59,Cash,Delayed,45.6
+FD10388,2026-08-06,20,Hyderabad,Burger Barn,Burgers,106.63,Cash,Delivered,36.6
+FD10203,2026-09-23,10,Delhi,Noodle Bar,Chinese,403.94,UPI,Delivered,26.8
+FD10503,2026-09-01,20,Delhi,Spice Route,North Indian,388.14,Card,Delivered,40.8
+FD11401,2026-10-31,18,Chennai,Noodle Bar,Chinese,374.97,UPI,Delivered,33.0
+FD11182,2026-09-17,18,Kolkata,Dragon Wok,Chinese,385.05,Cash,Delivered,24.0
+FD11260,2026-08-14,22,Delhi,Curry Leaf,South Indian,353.17,Card,Delayed,74.2
+FD10110,2026-09-21,20,Bengaluru,Curry Leaf,South Indian,290.91,Wallet,Delayed,47.5
+FD10143,2026-10-14,18,Delhi,Dragon Wok,Chinese,317.4,Wallet,Delivered,30.0
+FD11354,2026-08-30,14,Bengaluru,Sweet Tooth,Desserts,158.38,Cash,Delivered,37.2
+FD10978,2026-09-24,11,Bengaluru,Biryani House,Biryani,274.84,Card,Delivered,36.0
+FD10159,2026-09-29,20,Pune,Tandoori Nights,North Indian,552.05,Card,Delayed,54.6
+FD10672,2026-10-10,13,Delhi,Dragon Wok,Chinese,355.3,UPI,Delivered,32.7
+FD11418,2026-08-22,12,Hyderabad,Burger Barn,Burgers,257.37,UPI,Delivered,18.0
+FD10713,2026-09-10,19,Bengaluru,Dosa Plaza,South Indian,229.69,UPI,Delivered,39.2
+FD10215,2026-08-27,12,Delhi,Sweet Tooth,Desserts,161.26,UPI,Cancelled,
+FD11310,2026-08-16,11,Kolkata,Healthy Bowl,Healthy,348.01,Wallet,Delivered,35.5
+FD11131,2026-09-17,20,Mumbai,Noodle Bar,Chinese,346.16,Card,Delivered,44.9
+FD11400,2026-09-30,12,Hyderabad,Spice Route,North Indian,361.17,UPI,Delivered,36.2
+FD10617,2026-09-08,16,Bengaluru,Tandoori Nights,North Indian,240.37,UPI,Delivered,13.8
+FD10331,2026-08-18,22,Meerut,Pizza Corner,Pizza,474.57,Card,Delivered,32.6
+FD10704,2026-10-19,18,Meerut,Curry Leaf,South Indian,275.59,Card,Delivered,35.7
+FD10982,2026-08-16,19,Mumbai,Burger Barn,Burgers,241.26,UPI,Delivered,40.3
+FD11138,2026-10-18,19,Delhi,Burger Barn,Burgers,219.39,UPI,Delivered,24.9
+FD10429,2026-10-25,11,Delhi,Pizza Corner,Pizza,350.85,Card,Delivered,38.1
+FD10579,2026-10-28,12,Delhi,Biryani House,Biryani,598.47,UPI,Cancelled,
+FD11161,2026-10-11,19,Chennai,Burger Barn,Burgers,100.84,Cash,Delivered,43.3
+FD11127,2026-09-14,21,Delhi,Tandoori Nights,North Indian,342.04,Wallet,Delivered,42.3
+FD11105,2026-10-18,16,Chennai,Spice Route,North Indian,332.16,Wallet,Delivered,31.2
+FD11218,2026-09-09,12,Delhi,Tandoori Nights,North Indian,344.95,UPI,Delivered,32.6
+FD10900,2026-10-02,19,Kolkata,Tandoori Nights,North Indian,420.05,Card,Delivered,41.7
+FD11469,2026-10-26,12,Bengaluru,Noodle Bar,Chinese,445.22,Card,Delivered,29.4
+FD10448,2026-08-10,12,Pune,Healthy Bowl,Healthy,231.12,Card,Delivered,35.4
+FD10751,2026-09-25,13,Bengaluru,Burger Barn,Burgers,143.66,Cash,Delivered,39.1
+FD10675,2026-10-17,22,Delhi,Burger Barn,Burgers,285.79,Card,Delivered,38.6
+FD11076,2026-10-04,10,Meerut,Spice Route,North Indian,295.39,Card,Delivered,
+FD10517,2026-08-12,12,Delhi,Wrap Station,Fast Food,225.42,UPI,Delivered,40.0
+FD10564,2026-09-05,20,Kolkata,Dragon Wok,Chinese,461.89,Cash,Delivered,33.7
+FD10273,2026-09-19,18,Mumbai,Sweet Tooth,Desserts,189.01,Wallet,Cancelled,
+FD10632,2026-09-28,19,Kolkata,Sweet Tooth,Desserts,252.66,UPI,Delayed,45.9
+FD10140,2026-08-01,11,Hyderabad,Noodle Bar,Chinese,455.81,Card,Delivered,32.3
+FD11270,2026-08-30,13,Mumbai,Dosa Plaza,South Indian,277.52,Card,Delivered,42.4
+FD10764,2026-10-07,23,Bengaluru,Spice Route,North Indian,370.44,Cash,Delayed,51.8
+FD11458,2026-09-06,14,Meerut,Noodle Bar,Chinese,343.26,Card,Delivered,12.0
+FD10432,2026-09-10,20,Pune,Curry Leaf,South Indian,276.39,Wallet,Delayed,54.9
+FD10860,2026-09-09,18,Kolkata,Wrap Station,Fast Food,312.63,Cash,Delivered,41.6
+FD10903,2026-09-08,20,Pune,Burger Barn,Burgers,280.87,UPI,Delivered,35.2
+FD11432,2026-09-07,14,Mumbai,Curry Leaf,South Indian,222.58,Card,Cancelled,
+FD10761,2026-10-19,14,Meerut,Sweet Tooth,Desserts,324.43,UPI,Delivered,41.7
+FD10822,2026-09-15,19,Pune,Tandoori Nights,North Indian,224.5,UPI,Delivered,30.6
+FD11391,2026-10-03,21,Mumbai,Burger Barn,Burgers,297.45,Card,Delayed,53.2
+FD10857,2026-10-17,19,Pune,Dragon Wok,Chinese,398.39,Cash,Cancelled,
+FD11180,2026-08-13,19,Bengaluru,Pizza Corner,Pizza,330.33,Wallet,Delivered,32.1
+FD10872,2026-08-19,20,Mumbai,Noodle Bar,Chinese,159.96,Card,Delayed,50.0
+FD11194,2026-08-11,19,Delhi,Pizza Corner,Pizza,440.71,UPI,Delayed,55.7
+FD10816,2026-09-16,20,Pune,Dosa Plaza,South Indian,239.0,Card,Delayed,45.1
+FD10129,2026-09-08,20,Mumbai,Burger Barn,Burgers,115.98,Card,Delayed,47.9
+FD10009,2026-08-28,19,Mumbai,Noodle Bar,Chinese,271.55,Cash,Delayed,46.0
+FD10312,2026-10-05,23,Delhi,Burger Barn,Burgers,254.51,UPI,Delivered,35.3
+FD11279,2026-10-06,18,Mumbai,Wrap Station,Fast Food,194.48,UPI,Delivered,30.2
+FD10527,2026-10-12,13,Hyderabad,Healthy Bowl,Healthy,296.42,UPI,Delivered,23.9
+FD11088,2026-08-14,19,Chennai,Biryani House,Biryani,380.04,Card,Delivered,20.7
+FD10688,2026-10-24,19,Delhi,Healthy Bowl,Healthy,288.96,Card,Delivered,43.9
+FD10207,2026-09-13,19,Delhi,Curry Leaf,South Indian,85.96,UPI,Delivered,33.3
+FD11454,2026-08-06,22,Mumbai,Spice Route,North Indian,362.73,Card,Delivered,32.6
+FD10948,2026-08-17,21,Bengaluru,Healthy Bowl,Healthy,432.28,UPI,Delivered,28.7
+FD10634,2026-10-15,20,Delhi,Sweet Tooth,Desserts,202.53,UPI,Delayed,50.0
+FD10204,2026-10-22,10,Pune,Healthy Bowl,Healthy,281.19,Wallet,Delivered,28.0
+FD10055,2026-08-11,11,Bengaluru,Spice Route,North Indian,417.68,UPI,Delivered,33.7
+FD11129,2026-08-15,20,Bengaluru,Wrap Station,Fast Food,289.6,Cash,Delivered,29.0
+FD10489,2026-08-18,20,Pune,Curry Leaf,South Indian,440.71,Card,Delivered,31.6
+FD10541,2026-08-14,21,Mumbai,Dosa Plaza,South Indian,205.49,Card,Delayed,57.8
+FD10964,2026-08-03,10,Bengaluru,Dosa Plaza,South Indian,344.26,UPI,Cancelled,
+FD10190,2026-08-16,20,Bengaluru,Spice Route,North Indian,330.02,UPI,Delayed,53.8
+FD10109,2026-10-22,20,Bengaluru,Burger Barn,Burgers,314.39,Card,Delivered,38.9
+FD10538,2026-09-26,12,Bengaluru,Burger Barn,Burgers,269.21,UPI,Delivered,35.6
+FD10522,2026-09-01,21,Hyderabad,Dragon Wok,Chinese,435.38,UPI,Delayed,52.2
+FD10616,2026-08-14,18,Hyderabad,Pizza Corner,Pizza,298.22,UPI,Delivered,43.8
+FD10551,2026-08-30,19,Delhi,Dosa Plaza,South Indian,284.17,UPI,Delivered,24.8
+FD10023,2026-08-13,19,Mumbai,Burger Barn,Burgers,80.0,Card,Delivered,34.3
+FD10377,2026-08-05,10,Bengaluru,Dosa Plaza,South Indian,80.0,UPI,Delayed,51.5
+FD11239,2026-10-07,18,Bengaluru,Tandoori Nights,North Indian,541.72,Cash,Delivered,14.9
+FD10595,2026-08-10,12,Mumbai,Healthy Bowl,Healthy,202.21,UPI,Delivered,33.5
+FD11491,2026-08-10,23,Kolkata,Dragon Wok,Chinese,344.41,UPI,Delayed,46.1
+FD10206,2026-10-05,10,Mumbai,Dosa Plaza,South Indian,80.0,Card,Delivered,32.5
+FD10094,2026-09-23,17,Hyderabad,Sweet Tooth,Desserts,287.21,Wallet,Delivered,30.1
+FD10225,2026-10-26,19,Pune,Curry Leaf,South Indian,225.76,Cash,Delivered,19.4
+FD11200,2026-08-15,18,Delhi,Dosa Plaza,South Indian,214.47,Cash,Delivered,38.6
+FD11346,2026-09-12,19,Meerut,Noodle Bar,Chinese,340.19,Card,Delivered,41.8
+FD11261,2026-09-29,13,Mumbai,Curry Leaf,South Indian,314.02,UPI,Cancelled,
+FD11142,2026-08-28,11,Hyderabad,Sweet Tooth,Desserts,100.13,UPI,Delivered,25.1
+FD10441,2026-09-05,23,Kolkata,Dragon Wok,Chinese,298.45,Card,Delivered,41.8
+FD10589,2026-10-12,19,Bengaluru,Curry Leaf,South Indian,219.96,Card,Delivered,39.0
+FD10889,2026-10-29,21,Mumbai,Biryani House,Biryani,446.11,UPI,Delivered,40.8
+FD10745,2026-09-22,20,Hyderabad,Wrap Station,Fast Food,89.1,UPI,Delayed,91.9
+FD11169,2026-09-30,22,Hyderabad,Noodle Bar,Chinese,194.31,UPI,Cancelled,
+FD10093,2026-08-19,20,Delhi,Spice Route,North Indian,289.77,Wallet,Delayed,46.8
+FD11482,2026-08-22,11,Delhi,Noodle Bar,Chinese,280.96,Cash,Delivered,43.8
+FD11484,2026-10-20,13,Mumbai,Dragon Wok,Chinese,298.94,Card,Delayed,48.8
+FD10271,2026-09-27,19,Hyderabad,Sweet Tooth,Desserts,268.59,UPI,Delayed,48.5
+FD11269,2026-10-10,18,Bengaluru,Wrap Station,Fast Food,280.98,UPI,Delivered,36.1
+FD11084,2026-08-09,12,Mumbai,Burger Barn,Burgers,285.48,UPI,Delivered,41.6
+FD10076,2026-09-13,23,Bengaluru,Curry Leaf,South Indian,233.08,Cash,Delivered,32.0
+FD10985,2026-08-23,14,Hyderabad,Burger Barn,Burgers,80.0,UPI,Delivered,25.2
+FD11160,2026-08-04,15,Pune,Dosa Plaza,South Indian,289.52,UPI,Delivered,43.3
+FD10336,2026-10-05,21,Chennai,Spice Route,North Indian,242.85,UPI,Delivered,21.7
+FD11195,2026-10-20,12,Kolkata,Pizza Corner,Pizza,431.67,UPI,Delivered,30.6
+FD10561,2026-08-19,12,Bengaluru,Dosa Plaza,South Indian,263.19,Card,Delivered,38.1
+FD10956,2026-09-26,14,Mumbai,Curry Leaf,South Indian,250.85,Wallet,Delayed,
+FD11135,2026-08-07,21,Bengaluru,Spice Route,North Indian,115.5,Cash,Delayed,52.5
+FD10917,2026-10-03,20,Bengaluru,Wrap Station,Fast Food,228.85,Wallet,Delivered,37.4
+FD10247,2026-08-30,18,Bengaluru,Biryani House,Biryani,402.2,Card,Cancelled,
+FD10807,2026-09-18,11,Mumbai,Dosa Plaza,South Indian,331.19,UPI,Delivered,41.6
+FD11060,2026-10-24,13,Chennai,Burger Barn,Burgers,158.4,Cash,Delivered,43.8
+FD10470,2026-10-09,12,Delhi,Dosa Plaza,South Indian,196.47,Cash,Delayed,89.6
+FD11166,2026-08-22,18,Kolkata,Curry Leaf,South Indian,561.36,UPI,Delivered,31.1
+FD11394,2026-08-17,19,Mumbai,Wrap Station,Fast Food,166.13,UPI,Delayed,59.5
+FD11152,2026-10-17,18,Bengaluru,Sweet Tooth,Desserts,150.84,Wallet,Delivered,40.0
+FD10131,2026-10-26,11,Bengaluru,Curry Leaf,South Indian,454.04,Card,Delivered,26.2
+FD11272,2026-09-16,17,Delhi,Healthy Bowl,Healthy,198.69,UPI,Delivered,33.0
+FD10025,2026-08-03,19,Kolkata,Dosa Plaza,South Indian,235.89,UPI,Delivered,37.7
+FD10584,2026-08-11,12,Chennai,Healthy Bowl,Healthy,380.31,UPI,Delivered,42.1
+FD10392,2026-09-01,20,Mumbai,Spice Route,North Indian,315.54,UPI,Delayed,61.3
+FD10728,2026-08-27,16,Delhi,Healthy Bowl,Healthy,246.62,Card,Delivered,31.7
+FD10690,2026-09-15,13,Mumbai,Noodle Bar,Chinese,259.67,Cash,Delivered,28.5
+FD11388,2026-09-07,22,Mumbai,Dragon Wok,Chinese,254.59,UPI,Delayed,53.0
+FD11217,2026-09-12,21,Pune,Noodle Bar,Chinese,253.92,Card,Delivered,42.3
+FD10026,2026-10-14,18,Meerut,Tandoori Nights,North Indian,366.84,UPI,Delivered,37.6
+FD10156,2026-10-01,17,Hyderabad,Pizza Corner,Pizza,532.9,Cash,Delivered,40.0
+FD11449,2026-08-10,19,Chennai,Sweet Tooth,Desserts,122.97,Cash,Delivered,29.4
+FD10899,2026-09-16,12,Pune,Dosa Plaza,South Indian,80.0,Cash,Delivered,24.4
+FD10543,2026-09-08,11,Hyderabad,Dosa Plaza,South Indian,176.07,UPI,Delivered,35.0
+FD11275,2026-09-08,18,Delhi,Tandoori Nights,North Indian,392.93,UPI,Delivered,28.7
+FD11316,2026-09-20,20,Mumbai,Burger Barn,Burgers,191.8,UPI,Delayed,52.5
+FD10678,2026-08-14,20,Mumbai,Dosa Plaza,South Indian,89.37,Wallet,Delayed,50.0
+FD11134,2026-09-22,11,Delhi,Noodle Bar,Chinese,266.19,Card,Delivered,39.1
+FD10717,2026-10-18,14,Delhi,Healthy Bowl,Healthy,296.44,Card,Delayed,51.5
+FD10446,2026-09-19,18,Bengaluru,Dragon Wok,Chinese,230.58,Cash,Delivered,15.1
+FD10693,2026-10-07,22,Kolkata,Wrap Station,Fast Food,207.27,UPI,Delayed,92.7
+FD11366,2026-08-14,22,Hyderabad,Sweet Tooth,Desserts,226.63,UPI,Delivered,38.4
+FD10976,2026-10-17,12,Bengaluru,Dragon Wok,Chinese,429.94,Card,Delivered,32.0
+FD10180,2026-09-23,17,Bengaluru,Sweet Tooth,Desserts,137.53,Wallet,Delayed,46.2
+FD11086,2026-08-01,20,Delhi,Curry Leaf,South Indian,168.93,UPI,Delayed,70.2
+FD11368,2026-10-03,11,Mumbai,Pizza Corner,Pizza,489.58,UPI,Delayed,91.3
+FD11350,2026-10-09,19,Mumbai,Noodle Bar,Chinese,293.27,UPI,Delayed,50.6
+FD10011,2026-09-27,16,Mumbai,Tandoori Nights,North Indian,289.76,UPI,Delivered,33.0
+FD10355,2026-10-17,17,Hyderabad,Pizza Corner,Pizza,553.44,Card,Delivered,22.8
+FD10068,2026-08-04,16,Pune,Pizza Corner,Pizza,498.42,UPI,Delivered,32.9
+FD10988,2026-08-05,20,Chennai,Dragon Wok,Chinese,473.41,Cash,Delivered,34.9
+FD10146,2026-09-01,12,Delhi,Dosa Plaza,South Indian,298.89,UPI,Delivered,41.3
+FD11098,2026-10-12,23,Meerut,Spice Route,North Indian,337.08,UPI,Delivered,18.7
+FD10416,2026-10-25,19,Bengaluru,Curry Leaf,South Indian,205.14,UPI,Delivered,35.2
+FD11352,2026-10-26,19,Hyderabad,Burger Barn,Burgers,282.26,UPI,Delivered,30.9
+FD10507,2026-09-10,19,Delhi,Sweet Tooth,Desserts,80.0,UPI,Delivered,28.6
+FD10301,2026-08-26,19,Bengaluru,Sweet Tooth,Desserts,92.22,Wallet,Cancelled,
+FD10524,2026-08-17,21,Mumbai,Curry Leaf,South Indian,139.9,Card,Delayed,50.1
+FD11478,2026-09-28,13,Mumbai,Burger Barn,Burgers,271.47,UPI,Delivered,44.8
+FD11141,2026-10-04,20,Mumbai,Curry Leaf,South Indian,345.65,Card,Delivered,41.6
+FD10438,2026-08-21,15,Delhi,Biryani House,Biryani,404.6,Card,Delayed,49.4
+FD11176,2026-08-26,12,Mumbai,Curry Leaf,South Indian,269.0,Cash,Delivered,32.0
+FD10823,2026-08-30,20,Hyderabad,Burger Barn,Burgers,347.31,Card,Delivered,41.7
+FD10854,2026-09-10,17,Kolkata,Dragon Wok,Chinese,308.07,Wallet,Delivered,24.6
+FD10139,2026-08-24,20,Chennai,Sweet Tooth,Desserts,259.59,Card,Delayed,45.8
+FD11243,2026-08-10,19,Delhi,Wrap Station,Fast Food,255.06,UPI,Delivered,37.8
+FD10196,2026-08-09,10,Mumbai,Biryani House,Biryani,404.65,Cash,Delivered,26.2
+FD11434,2026-09-30,17,Delhi,Burger Barn,Burgers,375.27,Cash,Delayed,49.2
+FD10450,2026-10-08,20,Hyderabad,Spice Route,North Indian,370.29,UPI,Delivered,35.0
+FD10826,2026-10-18,17,Mumbai,Wrap Station,Fast Food,112.79,UPI,Delivered,33.2
+FD11210,2026-10-07,19,Kolkata,Noodle Bar,Chinese,310.22,Wallet,Delivered,39.5
+FD11421,2026-09-28,17,Bengaluru,Curry Leaf,South Indian,219.92,Cash,Delivered,38.4
+FD11021,2026-09-02,21,Kolkata,Curry Leaf,South Indian,111.34,Cash,Delivered,42.2
+FD10175,2026-08-09,18,Chennai,Noodle Bar,Chinese,182.04,UPI,Delivered,43.9
+FD10223,2026-10-02,13,Delhi,Sweet Tooth,Desserts,283.04,UPI,Delayed,56.8
+FD10255,2026-10-03,21,Delhi,Dosa Plaza,South Indian,80.27,UPI,Delivered,41.7
+FD11390,2026-10-01,18,Delhi,Curry Leaf,South Indian,262.12,Cash,Delayed,46.2
+FD10386,2026-09-03,12,Chennai,Dosa Plaza,South Indian,262.41,Wallet,Delivered,40.5
+FD10843,2026-08-03,15,Mumbai,Dosa Plaza,South Indian,286.77,UPI,Delayed,48.6
+FD11436,2026-09-03,19,Bengaluru,Biryani House,Biryani,453.2,Card,Delivered,40.8
+FD10775,2026-09-17,21,Bengaluru,Sweet Tooth,Desserts,80.0,Card,Delivered,36.5
+FD11369,2026-09-23,18,Chennai,Healthy Bowl,Healthy,492.0,UPI,Delivered,37.0
+FD10035,2026-08-31,18,Bengaluru,Wrap Station,Fast Food,386.95,Card,Delivered,42.6
+FD10712,2026-10-18,13,Delhi,Wrap Station,Fast Food,308.12,Cash,Delayed,63.3
+FD10821,2026-10-23,22,Meerut,Pizza Corner,Pizza,283.69,Card,Cancelled,
+FD10266,2026-09-01,20,Delhi,Pizza Corner,Pizza,459.22,Cash,Cancelled,
+FD10558,2026-08-12,12,Mumbai,Spice Route,North Indian,234.76,UPI,Delivered,34.0
+FD10090,2026-09-17,10,Bengaluru,Noodle Bar,Chinese,257.99,Card,Delivered,32.0
+FD11480,2026-10-03,19,Chennai,Noodle Bar,Chinese,295.92,Wallet,Delivered,32.8
+FD11219,2026-09-29,12,Mumbai,Burger Barn,Burgers,299.05,Card,Delivered,35.2
+FD10731,2026-10-30,21,Hyderabad,Dragon Wok,Chinese,386.33,Wallet,Cancelled,
+FD10001,2026-09-10,21,Pune,Healthy Bowl,Healthy,384.65,UPI,Delivered,25.8
+FD11068,2026-09-29,12,Mumbai,Healthy Bowl,Healthy,381.15,Cash,Delivered,
+FD10614,2026-10-24,17,Hyderabad,Spice Route,North Indian,206.5,Card,Delivered,34.8
+FD10006,2026-08-19,10,Delhi,Wrap Station,Fast Food,256.02,Card,Delivered,26.3
+FD10343,2026-08-14,20,Hyderabad,Tandoori Nights,North Indian,348.69,UPI,Delivered,40.2
+FD10904,2026-09-09,19,Delhi,Biryani House,Biryani,277.69,UPI,Delivered,39.5
+FD10102,2026-10-21,20,Meerut,Spice Route,North Indian,305.05,Card,Delivered,32.5
+FD10750,2026-08-03,11,Mumbai,Sweet Tooth,Desserts,173.07,Wallet,Delivered,16.5
+FD10040,2026-10-22,20,Mumbai,Tandoori Nights,North Indian,444.33,UPI,Delivered,44.5
+FD10529,2026-10-08,13,Mumbai,Burger Barn,Burgers,162.12,UPI,Delivered,31.6
+FD10666,2026-08-14,18,Hyderabad,Spice Route,North Indian,86.66,Card,Delivered,26.8
+FD10453,2026-10-11,11,Chennai,Dragon Wok,Chinese,367.48,UPI,Delayed,60.6
+FD10661,2026-10-31,20,Bengaluru,Pizza Corner,Pizza,595.75,UPI,Delivered,43.5
+FD10125,2026-10-07,13,Mumbai,Sweet Tooth,Desserts,203.35,Card,Delayed,49.5
+FD10178,2026-10-19,14,Delhi,Curry Leaf,South Indian,205.23,Cash,Delivered,37.9
+FD10137,2026-10-25,17,Kolkata,Wrap Station,Fast Food,89.66,Card,Delayed,49.1
+FD10337,2026-08-06,21,Delhi,Curry Leaf,South Indian,346.54,Wallet,Delivered,36.1
+FD10119,2026-08-07,12,Meerut,Healthy Bowl,Healthy,338.93,UPI,Delivered,28.9
+FD11090,2026-08-25,19,Chennai,Dosa Plaza,South Indian,80.0,Card,Cancelled,
+FD11417,2026-08-17,20,Bengaluru,Spice Route,North Indian,228.94,Card,Delivered,35.4
+FD10506,2026-08-05,12,Chennai,Pizza Corner,Pizza,456.07,UPI,Delayed,47.7
+FD11276,2026-10-22,21,Hyderabad,Burger Barn,Burgers,335.79,UPI,Delivered,25.7
+FD10618,2026-08-21,11,Bengaluru,Burger Barn,Burgers,312.63,Card,Delivered,21.1
+FD10992,2026-10-04,21,Delhi,Tandoori Nights,North Indian,390.73,Cash,Delayed,47.6
+FD10882,2026-10-31,16,Meerut,Pizza Corner,Pizza,549.08,UPI,Delivered,31.0
+FD10193,2026-09-07,11,Bengaluru,Spice Route,North Indian,395.79,UPI,Delayed,58.5
+FD11416,2026-09-17,19,Hyderabad,Healthy Bowl,Healthy,247.46,Card,Delivered,15.1
+FD11038,2026-08-21,11,Delhi,Burger Barn,Burgers,491.66,Wallet,Delivered,35.9
+FD10884,2026-08-08,20,Mumbai,Spice Route,North Indian,262.97,Card,Delivered,38.6
+FD10784,2026-09-05,21,Hyderabad,Sweet Tooth,Desserts,212.35,Card,Delivered,38.7
+FD10136,2026-08-18,12,Mumbai,Pizza Corner,Pizza,564.93,Card,Delayed,54.5
+FD10245,2026-10-10,12,Kolkata,Tandoori Nights,North Indian,392.55,Wallet,Delivered,30.6
+FD10461,2026-09-17,20,Hyderabad,Spice Route,North Indian,308.02,Cash,Delivered,42.2
+FD10042,2026-08-11,21,Meerut,Dosa Plaza,South Indian,201.54,UPI,Delayed,88.5
+FD10724,2026-09-05,17,Bengaluru,Sweet Tooth,Desserts,143.44,UPI,Delivered,27.3
+FD10916,2026-08-28,21,Chennai,Dosa Plaza,South Indian,374.05,UPI,Delayed,56.6
+FD10637,2026-09-09,19,Delhi,Sweet Tooth,Desserts,239.46,UPI,Cancelled,
+FD10359,2026-09-01,19,Mumbai,Pizza Corner,Pizza,327.7,UPI,Delivered,37.8
+FD10890,2026-09-09,11,Mumbai,Wrap Station,Fast Food,313.02,UPI,Delivered,34.6
+FD10298,2026-09-05,20,Meerut,Dosa Plaza,South Indian,106.2,Cash,Delivered,26.0
+FD10808,2026-10-24,14,Chennai,Curry Leaf,South Indian,155.78,Cash,Delivered,31.4
+FD11309,2026-10-05,20,Bengaluru,Biryani House,Biryani,427.16,UPI,Delivered,40.3
+FD10759,2026-08-25,11,Delhi,Wrap Station,Fast Food,248.47,Card,Delivered,44.5
+FD10518,2026-09-30,12,Delhi,Biryani House,Biryani,353.74,UPI,Delivered,20.1
+FD10559,2026-08-18,13,Delhi,Dragon Wok,Chinese,305.81,Wallet,Delayed,47.5
+FD11108,2026-08-02,22,Meerut,Wrap Station,Fast Food,244.55,Cash,Delivered,24.9
+FD10619,2026-10-19,13,Bengaluru,Biryani House,Biryani,236.63,Cash,Delivered,41.3
+FD10466,2026-09-14,20,Mumbai,Tandoori Nights,North Indian,556.0,Card,Delayed,50.6
+FD10411,2026-10-04,13,Chennai,Healthy Bowl,Healthy,260.03,UPI,Delivered,41.6
+FD10893,2026-09-27,12,Bengaluru,Burger Barn,Burgers,299.95,UPI,Delivered,39.1
+FD10934,2026-09-16,22,Chennai,Tandoori Nights,North Indian,371.49,UPI,Delivered,32.9
+FD11267,2026-08-17,13,Bengaluru,Tandoori Nights,North Indian,383.3,UPI,Delivered,38.7
+FD11069,2026-09-25,19,Meerut,Dragon Wok,Chinese,229.35,Cash,Delivered,21.6
+FD10039,2026-10-25,12,Hyderabad,Biryani House,Biryani,237.66,UPI,Delivered,36.9
+FD10679,2026-09-15,19,Chennai,Sweet Tooth,Desserts,180.12,Wallet,Delivered,31.9
+FD10080,2026-09-15,15,Bengaluru,Burger Barn,Burgers,321.72,Cash,Delivered,27.8
+FD11328,2026-08-09,19,Mumbai,Curry Leaf,South Indian,174.06,Cash,Delivered,37.1
+FD10687,2026-08-08,10,Pune,Burger Barn,Burgers,156.77,UPI,Delivered,40.1
+FD10492,2026-09-29,19,Meerut,Dragon Wok,Chinese,206.07,Cash,Delivered,17.5
+FD11396,2026-08-11,12,Mumbai,Tandoori Nights,North Indian,418.42,Card,Delivered,38.7
+FD10528,2026-09-24,23,Delhi,Pizza Corner,Pizza,397.28,Cash,Delivered,32.8
+FD10924,2026-09-28,12,Delhi,Noodle Bar,Chinese,418.16,UPI,Cancelled,
+FD10760,2026-09-18,20,Chennai,Spice Route,North Indian,302.67,UPI,Delivered,
+FD11299,2026-10-01,11,Mumbai,Biryani House,Biryani,250.06,Card,Delivered,35.1
+FD10952,2026-08-23,17,Chennai,Pizza Corner,Pizza,332.08,UPI,Delivered,30.0
+FD10972,2026-10-03,11,Pune,Dosa Plaza,South Indian,173.84,Card,Delivered,42.7
+FD11123,2026-09-29,13,Pune,Curry Leaf,South Indian,269.31,UPI,Delivered,40.6
+FD10694,2026-08-15,21,Pune,Sweet Tooth,Desserts,214.82,UPI,Delivered,18.5
+FD10915,2026-09-30,19,Chennai,Tandoori Nights,North Indian,445.81,Cash,Delivered,21.6
+FD10421,2026-08-09,11,Bengaluru,Wrap Station,Fast Food,283.2,UPI,Delivered,25.2
+FD11121,2026-08-24,21,Chennai,Tandoori Nights,North Indian,415.43,UPI,Delivered,41.5
+FD11151,2026-10-16,17,Bengaluru,Burger Barn,Burgers,237.2,UPI,Delivered,33.8
+FD11359,2026-08-28,12,Chennai,Spice Route,North Indian,328.1,UPI,Delivered,38.4
+FD11466,2026-08-14,11,Delhi,Pizza Corner,Pizza,649.98,UPI,Delivered,39.3
+FD10591,2026-08-19,22,Mumbai,Biryani House,Biryani,485.81,UPI,Delayed,50.5
+FD11403,2026-10-11,17,Delhi,Sweet Tooth,Desserts,239.15,UPI,Delivered,34.6
+FD10458,2026-09-26,12,Mumbai,Biryani House,Biryani,414.59,UPI,Delivered,38.1
+FD10767,2026-10-29,21,Delhi,Curry Leaf,South Indian,215.27,UPI,Cancelled,
+FD10112,2026-08-23,19,Kolkata,Wrap Station,Fast Food,234.7,UPI,Delivered,34.3
+FD10949,2026-09-13,12,Delhi,Sweet Tooth,Desserts,226.43,UPI,Delivered,
+FD10973,2026-08-25,20,Delhi,Sweet Tooth,Desserts,158.02,UPI,Delivered,38.9
+FD11130,2026-10-25,11,Mumbai,Pizza Corner,Pizza,435.47,Wallet,Delivered,38.9
+FD10894,2026-10-13,19,Bengaluru,Healthy Bowl,Healthy,143.1,Cash,Delivered,40.1
+FD10970,2026-08-04,20,Meerut,Pizza Corner,Pizza,561.04,Wallet,Delivered,22.4
+FD10987,2026-10-08,23,Delhi,Wrap Station,Fast Food,475.5,Cash,Delivered,32.9
+FD10103,2026-09-14,22,Meerut,Biryani House,Biryani,407.87,Card,Cancelled,
+FD10455,2026-09-18,21,Delhi,Dosa Plaza,South Indian,314.72,UPI,Delivered,29.7
+FD11247,2026-09-07,19,Delhi,Biryani House,Biryani,323.9,UPI,Delivered,31.9
+FD11377,2026-08-14,13,Meerut,Noodle Bar,Chinese,298.16,Card,Delivered,35.1
+FD10664,2026-10-02,17,Delhi,Curry Leaf,South Indian,379.11,UPI,Delivered,31.0
+FD11492,2026-09-09,23,Bengaluru,Dosa Plaza,South Indian,196.12,Card,Delivered,32.8
+FD10887,2026-08-23,20,Mumbai,Tandoori Nights,North Indian,481.24,Card,Delivered,44.2
+FD10959,2026-09-29,10,Chennai,Wrap Station,Fast Food,80.0,UPI,Delivered,33.0
+FD11157,2026-09-20,19,Delhi,Dragon Wok,Chinese,310.65,UPI,Delayed,45.4
+FD10757,2026-10-09,20,Hyderabad,Tandoori Nights,North Indian,476.74,UPI,Delayed,48.8
+FD11172,2026-09-11,22,Bengaluru,Sweet Tooth,Desserts,145.55,Wallet,Delivered,31.1
+FD11014,2026-08-09,10,Chennai,Noodle Bar,Chinese,382.69,UPI,Delivered,27.2
+FD11450,2026-10-08,21,Bengaluru,Biryani House,Biryani,371.23,Wallet,Delivered,31.9
+FD10944,2026-10-11,21,Pune,Pizza Corner,Pizza,458.6,UPI,Delivered,27.9
+FD10115,2026-09-15,19,Bengaluru,Tandoori Nights,North Indian,351.39,UPI,Delivered,31.7
+FD10069,2026-10-13,11,Chennai,Dragon Wok,Chinese,284.74,Card,Delayed,74.9
+FD10928,2026-10-21,11,Hyderabad,Pizza Corner,Pizza,504.53,Wallet,Delivered,24.7
+FD10547,2026-08-05,18,Pune,Noodle Bar,Chinese,229.65,UPI,Delivered,28.6
+FD10718,2026-09-06,17,Bengaluru,Curry Leaf,South Indian,220.81,UPI,Cancelled,
+FD11429,2026-10-19,20,Delhi,Curry Leaf,South Indian,191.41,UPI,Delivered,37.0
+FD10727,2026-09-15,17,Hyderabad,Burger Barn,Burgers,243.69,Cash,Delivered,35.6
+FD10911,2026-10-28,17,Bengaluru,Burger Barn,Burgers,343.43,Wallet,Delivered,31.1
+FD10650,2026-08-17,20,Delhi,Spice Route,North Indian,298.03,Card,Delivered,28.0
+FD10272,2026-09-16,18,Delhi,Wrap Station,Fast Food,306.32,UPI,Delivered,38.0
+FD10977,2026-10-19,22,Mumbai,Biryani House,Biryani,365.69,Card,Delayed,45.3
+FD10787,2026-10-10,21,Bengaluru,Tandoori Nights,North Indian,474.26,UPI,Delivered,44.9
+FD10253,2026-08-05,18,Pune,Noodle Bar,Chinese,315.03,Card,Delivered,33.9
+FD11128,2026-10-05,12,Mumbai,Dragon Wok,Chinese,413.84,Card,Delivered,38.9
+FD10785,2026-08-29,18,Delhi,Dragon Wok,Chinese,216.95,Card,Cancelled,
+FD11213,2026-09-01,19,Delhi,Pizza Corner,Pizza,403.46,Cash,Delayed,54.8
+FD10135,2026-09-23,20,Meerut,Biryani House,Biryani,330.54,Wallet,Delivered,23.7
+FD10950,2026-08-03,14,Pune,Dragon Wok,Chinese,343.26,Card,Delivered,31.6
+FD11220,2026-08-27,15,Delhi,Dosa Plaza,South Indian,80.0,Cash,Delivered,34.7
+FD11104,2026-09-16,12,Hyderabad,Biryani House,Biryani,447.41,UPI,Delivered,36.9
+FD11029,2026-10-03,19,Meerut,Pizza Corner,Pizza,681.17,UPI,Delayed,54.3
+FD10659,2026-08-04,10,Bengaluru,Sweet Tooth,Desserts,121.91,Card,Delivered,44.2
+FD10128,2026-10-07,19,Mumbai,Burger Barn,Burgers,182.52,Cash,Delayed,86.9
+FD11427,2026-08-04,12,Pune,Healthy Bowl,Healthy,317.85,Cash,Delivered,20.4
+FD11387,2026-09-17,13,Mumbai,Wrap Station,Fast Food,166.91,UPI,Delivered,43.3
+FD11136,2026-08-19,12,Pune,Healthy Bowl,Healthy,303.92,UPI,Delivered,43.7
+FD10238,2026-08-18,21,Bengaluru,Burger Barn,Burgers,264.65,Cash,Delayed,46.3
+FD11378,2026-08-23,12,Kolkata,Wrap Station,Fast Food,100.28,Cash,Delivered,39.0
+FD11110,2026-10-15,18,Chennai,Dosa Plaza,South Indian,147.83,Card,Delivered,19.9
+FD10460,2026-09-13,20,Chennai,Wrap Station,Fast Food,420.81,UPI,Delivered,36.0
+FD11149,2026-10-22,18,Pune,Biryani House,Biryani,309.1,Cash,Delivered,44.8
+FD10056,2026-08-02,20,Chennai,Curry Leaf,South Indian,145.44,UPI,Delivered,43.7
+FD10770,2026-09-25,17,Meerut,Curry Leaf,South Indian,256.39,UPI,Delivered,26.6
+FD10075,2026-08-23,15,Mumbai,Curry Leaf,South Indian,311.44,Cash,Delivered,44.1
+FD11183,2026-10-14,21,Hyderabad,Sweet Tooth,Desserts,268.66,UPI,Delivered,39.7
+FD10106,2026-10-09,20,Hyderabad,Spice Route,North Indian,465.52,Wallet,Delayed,90.6
+FD10164,2026-10-14,18,Chennai,Biryani House,Biryani,329.03,UPI,Delivered,43.6
+FD11118,2026-10-31,13,Mumbai,Sweet Tooth,Desserts,131.03,Wallet,Delayed,51.8
+FD10686,2026-08-15,18,Bengaluru,Noodle Bar,Chinese,205.57,Cash,Delivered,27.1
+FD11465,2026-08-19,19,Mumbai,Biryani House,Biryani,276.73,Card,Cancelled,
+FD11081,2026-08-04,22,Hyderabad,Wrap Station,Fast Food,240.56,UPI,Delivered,44.2
+FD10640,2026-09-16,18,Hyderabad,Curry Leaf,South Indian,409.52,UPI,Cancelled,
+FD11293,2026-10-04,12,Hyderabad,Noodle Bar,Chinese,156.72,UPI,Delivered,30.1
+FD11193,2026-08-16,15,Bengaluru,Spice Route,North Indian,384.29,Cash,Delivered,33.9
+FD10519,2026-09-12,19,Meerut,Sweet Tooth,Desserts,175.64,UPI,Delivered,27.2
+FD10103,2026-09-14,22,Meerut,Biryani House,Biryani,407.87,Card,Cancelled,
+FD10592,2026-08-28,19,Chennai,Dosa Plaza,South Indian,80.0,UPI,Delivered,24.3
+FD11023,2026-08-14,10,Delhi,Healthy Bowl,Healthy,199.44,Card,Delivered,36.3
+FD10771,2026-09-25,20,Hyderabad,Noodle Bar,Chinese,236.2,Card,Delivered,28.9
+FD10413,2026-08-24,19,Hyderabad,Spice Route,North Indian,353.76,UPI,Delivered,26.4
+FD11442,2026-09-14,11,Hyderabad,Spice Route,North Indian,294.08,Card,Delivered,42.6
+FD10556,2026-08-16,12,Mumbai,Tandoori Nights,North Indian,331.44,UPI,Delivered,41.8
+FD10544,2026-10-09,16,Bengaluru,Spice Route,North Indian,409.02,Wallet,Delivered,32.4
+FD11315,2026-10-01,18,Meerut,Tandoori Nights,North Indian,408.4,UPI,Delivered,20.5
+FD10537,2026-09-28,19,Hyderabad,Burger Barn,Burgers,371.65,UPI,Delayed,56.5
+FD11410,2026-08-19,20,Delhi,Tandoori Nights,North Indian,380.13,UPI,Delivered,41.1
+FD11113,2026-08-14,12,Hyderabad,Tandoori Nights,North Indian,356.51,Wallet,Delivered,40.1
+FD11266,2026-08-05,18,Mumbai,Curry Leaf,South Indian,345.88,UPI,Delivered,39.3
+FD11199,2026-08-02,12,Hyderabad,Spice Route,North Indian,364.26,UPI,Delivered,18.4
+FD10625,2026-09-04,15,Delhi,Burger Barn,Burgers,280.42,Card,Delivered,41.4
+FD10407,2026-09-22,12,Pune,Noodle Bar,Chinese,434.83,UPI,Delivered,36.1
+FD11321,2026-10-03,14,Hyderabad,Dragon Wok,Chinese,353.54,UPI,Delivered,34.9
+FD10645,2026-10-24,12,Delhi,Sweet Tooth,Desserts,274.58,Card,Delayed,54.0
+FD10864,2026-09-11,23,Mumbai,Dragon Wok,Chinese,416.65,UPI,Delayed,53.2
+FD10927,2026-09-09,13,Hyderabad,Curry Leaf,South Indian,309.7,Wallet,Delivered,32.2
+FD11231,2026-08-03,12,Delhi,Wrap Station,Fast Food,93.72,UPI,Delivered,38.8
+FD10447,2026-10-30,19,Hyderabad,Sweet Tooth,Desserts,166.64,Cash,Delivered,33.8
+FD10665,2026-08-23,12,Hyderabad,Curry Leaf,South Indian,337.96,Card,Delivered,24.8
+FD11054,2026-09-28,13,Delhi,Noodle Bar,Chinese,337.73,Cash,Delivered,44.8
+FD11385,2026-09-24,19,Delhi,Healthy Bowl,Healthy,354.01,Card,Delivered,30.9
+FD10772,2026-08-13,19,Bengaluru,Wrap Station,Fast Food,295.35,UPI,Delivered,44.0
+FD10480,2026-10-18,23,Bengaluru,Curry Leaf,South Indian,423.73,UPI,Delayed,46.2
+FD11112,2026-08-02,19,Bengaluru,Sweet Tooth,Desserts,274.89,UPI,Delivered,32.5
+FD10580,2026-09-29,22,Meerut,Biryani House,Biryani,307.14,Wallet,Delivered,37.5
+FD10331,2026-08-18,22,Meerut,Pizza Corner,Pizza,474.57,Card,Delivered,32.6
+FD10262,2026-09-19,18,Mumbai,Tandoori Nights,North Indian,315.61,UPI,Delivered,39.5
+FD10295,2026-09-30,21,Bengaluru,Dosa Plaza,South Indian,297.15,UPI,Delayed,50.1
+FD10722,2026-10-21,17,Pune,Burger Barn,Burgers,414.64,UPI,Delivered,40.7
+FD11229,2026-08-05,10,Delhi,Burger Barn,Burgers,317.34,Cash,Delivered,35.6
+FD11207,2026-08-30,15,Delhi,Burger Barn,Burgers,348.16,UPI,Delivered,33.4
+FD11489,2026-09-05,16,Chennai,Dosa Plaza,South Indian,235.54,Card,Delivered,17.7
+FD10983,2026-08-04,17,Pune,Dragon Wok,Chinese,238.33,UPI,Delivered,20.4
+FD11340,2026-08-24,20,Mumbai,Dosa Plaza,South Indian,208.92,Cash,Delivered,44.1
+FD10160,2026-09-04,17,Meerut,Tandoori Nights,North Indian,508.97,Card,Delivered,17.7
+FD11389,2026-09-23,13,Chennai,Curry Leaf,South Indian,233.98,UPI,Delivered,36.2
+FD10651,2026-08-08,12,Hyderabad,Healthy Bowl,Healthy,359.69,Card,Delivered,43.8
+FD10610,2026-10-15,12,Delhi,Dragon Wok,Chinese,230.84,Cash,Delivered,39.6
+FD11263,2026-09-27,19,Chennai,Noodle Bar,Chinese,381.04,Card,Delivered,41.7
+FD10334,2026-10-26,17,Chennai,Tandoori Nights,North Indian,377.29,UPI,Delivered,30.5
+FD10695,2026-10-20,20,Hyderabad,Sweet Tooth,Desserts,124.05,Wallet,Delivered,30.6
+FD11007,2026-09-12,20,Bengaluru,Healthy Bowl,Healthy,123.11,Card,Delivered,37.4
+FD10280,2026-10-22,21,Pune,Curry Leaf,South Indian,399.53,UPI,Delivered,43.2
+FD11037,2026-09-11,12,Delhi,Spice Route,North Indian,171.43,UPI,Delivered,29.7
+FD10699,2026-08-23,21,Kolkata,Pizza Corner,Pizza,479.11,UPI,Delivered,37.1
+FD11485,2026-09-16,21,Mumbai,Burger Barn,Burgers,213.43,Cash,Delayed,50.7
+FD10869,2026-09-04,19,Chennai,Dragon Wok,Chinese,164.12,UPI,Delivered,28.7
+FD10630,2026-08-15,21,Mumbai,Dosa Plaza,South Indian,320.54,Wallet,Cancelled,
+FD10534,2026-09-02,19,Bengaluru,Noodle Bar,Chinese,211.1,Card,Cancelled,
+FD11294,2026-09-06,21,Delhi,Sweet Tooth,Desserts,198.23,UPI,Delivered,37.2
+FD10737,2026-08-15,12,Mumbai,Pizza Corner,Pizza,549.91,UPI,Delayed,55.7
+FD10015,2026-09-01,19,Hyderabad,Dosa Plaza,South Indian,200.0,Wallet,Delivered,25.9
+FD10683,2026-08-26,12,Kolkata,Sweet Tooth,Desserts,280.44,UPI,Delivered,36.0
+FD11013,2026-08-03,13,Kolkata,Dragon Wok,Chinese,325.67,Wallet,Delayed,70.3
+FD10393,2026-09-14,12,Bengaluru,Tandoori Nights,North Indian,507.14,UPI,Delivered,24.9
+FD10423,2026-10-30,22,Hyderabad,Pizza Corner,Pizza,599.78,UPI,Delivered,38.5
+FD11302,2026-10-17,20,Delhi,Burger Barn,Burgers,121.47,Wallet,Delivered,40.5
+FD10463,2026-10-17,21,Chennai,Dragon Wok,Chinese,444.62,Wallet,Cancelled,
+FD11296,2026-10-19,19,Delhi,Biryani House,Biryani,418.44,UPI,Delivered,36.5
+FD11009,2026-09-22,13,Delhi,Dragon Wok,Chinese,80.0,Cash,Delivered,41.3
+FD11273,2026-10-27,15,Hyderabad,Sweet Tooth,Desserts,173.3,Wallet,Cancelled,
+FD10802,2026-09-16,20,Delhi,Spice Route,North Indian,304.72,UPI,Delivered,35.7
+FD11345,2026-08-24,13,Hyderabad,Dosa Plaza,South Indian,340.61,Cash,Delayed,47.4
+FD11056,2026-08-06,22,Bengaluru,Burger Barn,Burgers,159.91,UPI,Delivered,36.1
+FD11236,2026-10-12,20,Delhi,Healthy Bowl,Healthy,239.04,UPI,Delivered,44.9
+FD10909,2026-09-25,18,Kolkata,Curry Leaf,South Indian,296.08,Wallet,Delayed,60.6
+FD10620,2026-08-11,20,Delhi,Pizza Corner,Pizza,450.66,Card,Delayed,46.5
+FD11186,2026-08-30,11,Meerut,Dosa Plaza,South Indian,241.57,UPI,Delivered,27.9
+FD11116,2026-09-13,11,Meerut,Noodle Bar,Chinese,291.49,Cash,Delivered,31.4
+FD10237,2026-09-14,21,Kolkata,Burger Barn,Burgers,372.25,UPI,Delivered,26.8
+FD10858,2026-10-10,20,Mumbai,Sweet Tooth,Desserts,104.41,Card,Delayed,51.0
+FD10874,2026-10-29,13,Chennai,Sweet Tooth,Desserts,188.18,Wallet,Cancelled,
+FD10467,2026-08-14,17,Hyderabad,Dosa Plaza,South Indian,250.84,UPI,Delivered,32.5
+FD11080,2026-10-16,12,Chennai,Curry Leaf,South Indian,131.13,Card,Delivered,26.9
+FD10754,2026-09-05,21,Delhi,Spice Route,North Indian,299.23,Card,Cancelled,
+FD11155,2026-10-19,20,Meerut,Sweet Tooth,Desserts,185.67,UPI,Delivered,28.0
+FD10942,2026-09-07,12,Delhi,Burger Barn,Burgers,244.28,UPI,Delivered,42.3
+FD10883,2026-08-13,20,Mumbai,Biryani House,Biryani,493.71,Card,Delayed,56.2
+FD10292,2026-09-21,15,Mumbai,Pizza Corner,Pizza,408.21,Card,Delivered,39.1
+FD10234,2026-10-15,19,Delhi,Pizza Corner,Pizza,441.45,Wallet,Delayed,59.6
+FD10742,2026-09-20,19,Bengaluru,Sweet Tooth,Desserts,202.68,Cash,Delivered,26.7
+FD11188,2026-09-04,11,Chennai,Noodle Bar,Chinese,381.1,UPI,Delivered,27.3
+FD10410,2026-10-13,14,Delhi,Wrap Station,Fast Food,298.2,Card,Delivered,34.0
+FD10851,2026-10-21,11,Hyderabad,Burger Barn,Burgers,207.95,Card,Delayed,45.3
+FD11012,2026-08-24,20,Meerut,Burger Barn,Burgers,324.48,Card,Delivered,32.9
+FD11184,2026-10-08,13,Mumbai,Noodle Bar,Chinese,312.4,Wallet,Delivered,40.7
+FD10320,2026-09-13,19,Hyderabad,Spice Route,North Indian,252.85,Wallet,Delivered,43.4
+FD10743,2026-10-28,12,Hyderabad,Tandoori Nights,North Indian,417.16,Cash,Delayed,46.3
+FD11221,2026-08-14,23,Chennai,Dosa Plaza,South Indian,256.73,Card,Delivered,31.7
+FD11257,2026-10-23,20,Pune,Curry Leaf,South Indian,168.45,UPI,Delivered,25.4
+FD11041,2026-10-14,13,Hyderabad,Curry Leaf,South Indian,279.07,Card,Delivered,36.4
+FD10693,2026-10-07,22,Kolkata,Wrap Station,Fast Food,207.27,UPI,Delayed,92.7
+FD10050,2026-08-28,19,Meerut,Sweet Tooth,Desserts,296.05,Card,Delivered,36.9
+FD10786,2026-10-27,19,Delhi,Sweet Tooth,Desserts,240.0,UPI,Delivered,43.0
+FD10060,2026-08-05,13,Kolkata,Noodle Bar,Chinese,367.37,Card,Delayed,46.4
+FD11226,2026-08-26,11,Delhi,Dragon Wok,Chinese,315.34,UPI,Delivered,42.4
+FD10991,2026-10-04,20,Mumbai,Sweet Tooth,Desserts,310.99,UPI,Delivered,42.1
+FD10462,2026-10-15,19,Mumbai,Healthy Bowl,Healthy,594.39,UPI,Cancelled,
+FD11331,2026-08-03,19,Mumbai,Wrap Station,Fast Food,210.93,Wallet,Delayed,45.7
+FD10535,2026-10-11,19,Bengaluru,Healthy Bowl,Healthy,443.35,UPI,Delayed,45.4
+FD10629,2026-08-17,20,Hyderabad,Dosa Plaza,South Indian,272.52,UPI,Delivered,44.9
+FD10929,2026-10-11,19,Chennai,Wrap Station,Fast Food,248.46,Card,Delivered,34.6
+FD11265,2026-10-17,22,Delhi,Wrap Station,Fast Food,394.25,Wallet,Delayed,48.6
+FD10951,2026-09-15,12,Delhi,Biryani House,Biryani,350.61,Card,Delivered,39.8
+FD10526,2026-08-26,21,Delhi,Tandoori Nights,North Indian,507.66,UPI,Delivered,36.3
+FD11339,2026-08-23,21,Delhi,Biryani House,Biryani,309.11,UPI,Delivered,
+FD10402,2026-10-12,18,Delhi,Dosa Plaza,South Indian,163.01,Card,Delivered,39.1
+FD11291,2026-08-13,12,Bengaluru,Healthy Bowl,Healthy,244.96,Wallet,Delivered,29.2
+FD10372,2026-10-17,19,Chennai,Spice Route,North Indian,383.87,Cash,Delivered,30.1
+FD10400,2026-10-20,14,Mumbai,Curry Leaf,South Indian,241.35,UPI,Delivered,39.6
+FD10998,2026-08-09,20,Pune,Biryani House,Biryani,395.76,UPI,Delivered,42.0
+FD11234,2026-09-22,17,Mumbai,Sweet Tooth,Desserts,235.65,Cash,Delivered,38.5
+FD10415,2026-08-04,23,Meerut,Pizza Corner,Pizza,355.01,Wallet,Delivered,27.6
+FD11222,2026-09-04,18,Chennai,Sweet Tooth,Desserts,80.0,UPI,Delivered,25.7
+FD10038,2026-08-16,19,Hyderabad,Pizza Corner,Pizza,504.79,Card,Delivered,36.4
+FD10590,2026-08-18,12,Delhi,Dosa Plaza,South Indian,364.4,UPI,Delivered,25.0
+FD10674,2026-10-28,13,Mumbai,Dosa Plaza,South Indian,162.25,Cash,Delivered,36.2
+FD11093,2026-10-04,19,Bengaluru,Healthy Bowl,Healthy,284.86,UPI,Cancelled,
+FD10107,2026-08-12,12,Bengaluru,Wrap Station,Fast Food,220.44,UPI,Delivered,40.9
+FD10323,2026-08-13,13,Mumbai,Dragon Wok,Chinese,515.58,Card,Delayed,46.4
+FD10352,2026-09-15,18,Chennai,Noodle Bar,Chinese,332.96,Wallet,Delivered,25.7
+FD10357,2026-08-10,18,Delhi,Pizza Corner,Pizza,421.83,Cash,Delayed,46.7
+FD10836,2026-09-30,22,Bengaluru,Dragon Wok,Chinese,174.0,Card,Delivered,32.1
+FD10716,2026-10-30,12,Hyderabad,Dosa Plaza,South Indian,114.57,Card,Delivered,32.1
+FD10252,2026-10-18,13,Delhi,Sweet Tooth,Desserts,160.88,UPI,Delivered,42.9
+FD11197,2026-09-09,20,Bengaluru,Wrap Station,Fast Food,316.87,Card,Delivered,42.5
+FD11092,2026-10-24,12,Delhi,Dragon Wok,Chinese,436.74,Card,Delivered,36.1
+FD10848,2026-08-18,18,Delhi,Burger Barn,Burgers,257.69,Card,Cancelled,
+FD10391,2026-10-02,13,Kolkata,Pizza Corner,Pizza,508.05,UPI,Delivered,42.5
+FD10444,2026-08-23,18,Bengaluru,Noodle Bar,Chinese,387.92,Card,Cancelled,
+FD10568,2026-09-01,19,Mumbai,Noodle Bar,Chinese,215.97,UPI,Delayed,45.1
+FD10216,2026-09-04,19,Hyderabad,Burger Barn,Burgers,89.61,UPI,Delayed,46.6
+FD10339,2026-10-19,16,Delhi,Biryani House,Biryani,373.64,Card,Delivered,44.1
+FD10795,2026-09-09,12,Delhi,Dosa Plaza,South Indian,155.25,UPI,Delivered,29.7
+FD11095,2026-09-30,20,Chennai,Healthy Bowl,Healthy,338.25,Cash,Delivered,35.2
+FD10910,2026-10-02,14,Hyderabad,Dragon Wok,Chinese,368.31,UPI,Delivered,38.2
+FD10057,2026-10-11,14,Meerut,Dosa Plaza,South Indian,261.86,Cash,Cancelled,
+FD10669,2026-09-09,16,Mumbai,Dosa Plaza,South Indian,247.67,Wallet,Delivered,38.9
+FD10633,2026-09-24,20,Mumbai,Sweet Tooth,Desserts,174.95,Cash,Delayed,87.9
+FD10682,2026-08-28,21,Mumbai,Dragon Wok,Chinese,280.45,Card,Delivered,43.4
+FD10804,2026-08-02,11,Mumbai,Healthy Bowl,Healthy,452.7,Card,Delivered,37.1
+FD10182,2026-08-09,17,Meerut,Pizza Corner,Pizza,450.18,UPI,Delivered,22.4
+FD10054,2026-09-17,20,Mumbai,Noodle Bar,Chinese,318.24,Wallet,Delayed,45.2
+FD11052,2026-09-05,11,Bengaluru,Pizza Corner,Pizza,525.26,Card,Delayed,48.4
+FD11422,2026-10-27,18,Hyderabad,Curry Leaf,South Indian,135.37,UPI,Cancelled,
+FD10347,2026-08-25,18,Bengaluru,Dragon Wok,Chinese,374.2,Cash,Delivered,24.0
+FD10232,2026-09-09,15,Kolkata,Noodle Bar,Chinese,313.98,UPI,Delivered,37.5
+FD10152,2026-08-08,20,Delhi,Tandoori Nights,North Indian,337.58,Wallet,Delayed,53.7
+FD10501,2026-10-18,20,Bengaluru,Dosa Plaza,South Indian,139.18,UPI,Delivered,38.7
+FD11424,2026-09-30,12,Bengaluru,Dragon Wok,Chinese,323.37,UPI,Delivered,24.9
+FD10828,2026-10-23,20,Pune,Healthy Bowl,Healthy,437.74,Card,Delivered,40.0
+FD10231,2026-09-08,11,Mumbai,Noodle Bar,Chinese,392.01,UPI,Delivered,44.9
+FD10926,2026-08-30,22,Hyderabad,Burger Barn,Burgers,385.62,UPI,Delivered,23.4
+FD10525,2026-09-05,22,Bengaluru,Spice Route,North Indian,240.74,Cash,Delivered,42.8
+FD10022,2026-08-19,14,Kolkata,Spice Route,North Indian,377.9,Wallet,Cancelled,
+FD10406,2026-08-20,14,Delhi,Burger Barn,Burgers,329.22,UPI,Delivered,41.6
+FD10258,2026-08-28,15,Bengaluru,Tandoori Nights,North Indian,561.42,Card,Delivered,28.0
+FD10701,2026-09-02,12,Bengaluru,Dosa Plaza,South Indian,127.48,UPI,Delivered,44.7
+FD10389,2026-10-09,16,Delhi,Tandoori Nights,North Indian,404.71,UPI,Delayed,51.4
+FD10186,2026-10-05,19,Meerut,Dosa Plaza,South Indian,80.0,Card,Delivered,43.2
+FD10044,2026-08-10,23,Pune,Spice Route,North Indian,260.39,Card,Cancelled,
+FD10474,2026-09-22,20,Hyderabad,Spice Route,North Indian,411.94,UPI,Delivered,32.5
+FD10853,2026-09-28,12,Delhi,Dragon Wok,Chinese,364.09,UPI,Delivered,36.5
+FD11126,2026-09-07,21,Delhi,Biryani House,Biryani,332.1,UPI,Delivered,43.5
+FD10341,2026-09-21,12,Mumbai,Burger Barn,Burgers,281.84,Wallet,Delivered,40.7
+FD11101,2026-08-05,23,Bengaluru,Dosa Plaza,South Indian,187.93,Cash,Delivered,44.4
+FD11162,2026-09-16,18,Pune,Dosa Plaza,South Indian,274.15,Card,Delivered,21.9
+FD11464,2026-09-07,20,Meerut,Pizza Corner,Pizza,484.43,Card,Delivered,22.9
+FD10961,2026-08-08,11,Mumbai,Wrap Station,Fast Food,241.85,Cash,Delivered,41.0
+FD11133,2026-10-11,17,Delhi,Pizza Corner,Pizza,442.57,Card,Delivered,44.8
+FD10316,2026-08-15,10,Mumbai,Tandoori Nights,North Indian,360.31,Wallet,Delivered,31.3
+FD10330,2026-10-18,22,Kolkata,Pizza Corner,Pizza,585.11,UPI,Delivered,30.9
+FD10513,2026-08-05,18,Mumbai,Dosa Plaza,South Indian,104.52,Cash,Delivered,39.4
+FD11039,2026-10-12,19,Kolkata,Tandoori Nights,North Indian,333.75,UPI,Cancelled,
+FD10346,2026-08-28,12,Kolkata,Wrap Station,Fast Food,325.78,UPI,Delivered,44.8
+FD10833,2026-08-22,20,Bengaluru,Noodle Bar,Chinese,309.36,UPI,Delayed,46.6
+FD10684,2026-10-09,20,Hyderabad,Spice Route,North Indian,304.61,Card,Cancelled,
+FD11003,2026-08-25,20,Pune,Spice Route,North Indian,358.04,Cash,Delivered,37.8
+FD11477,2026-08-01,21,Chennai,Sweet Tooth,Desserts,332.39,Card,Delayed,51.2
+FD10773,2026-08-19,16,Mumbai,Wrap Station,Fast Food,465.0,Cash,Delayed,53.0
+FD10067,2026-09-12,23,Meerut,Curry Leaf,South Indian,326.39,Cash,Delivered,38.2
+FD10933,2026-08-03,12,Delhi,Tandoori Nights,North Indian,386.68,Card,Delivered,33.1
+FD11471,2026-09-12,19,Meerut,Curry Leaf,South Indian,259.99,Wallet,Delivered,17.5
+FD11371,2026-09-28,22,Bengaluru,Burger Barn,Burgers,216.24,UPI,Delivered,33.9
+FD10644,2026-10-27,23,Chennai,Tandoori Nights,North Indian,387.4,UPI,Delivered,32.5
+FD11344,2026-09-19,17,Mumbai,Dragon Wok,Chinese,342.17,Card,Delivered,34.1
+FD10809,2026-08-28,21,Bengaluru,Biryani House,Biryani,308.63,Card,Delivered,39.7
+FD10646,2026-08-21,17,Mumbai,Tandoori Nights,North Indian,460.91,UPI,Delivered,38.4
+FD10418,2026-10-19,17,Bengaluru,Wrap Station,Fast Food,211.04,UPI,Delivered,34.0
+FD11297,2026-08-10,14,Chennai,Spice Route,North Indian,350.11,Card,Delivered,36.8
+FD11106,2026-08-21,10,Hyderabad,Dragon Wok,Chinese,181.89,UPI,Delivered,23.8
+FD10542,2026-09-16,23,Bengaluru,Noodle Bar,Chinese,411.08,Card,Delivered,36.6
+FD11379,2026-08-11,10,Kolkata,Pizza Corner,Pizza,486.89,UPI,Delivered,34.8
+FD10314,2026-08-08,13,Mumbai,Tandoori Nights,North Indian,430.53,Wallet,Delivered,34.3
+FD10307,2026-08-23,12,Delhi,Dosa Plaza,South Indian,162.91,UPI,Cancelled,
+FD10941,2026-10-15,21,Mumbai,Curry Leaf,South Indian,390.55,UPI,Delivered,41.7
+FD10130,2026-08-07,10,Chennai,Curry Leaf,South Indian,156.13,Cash,Delivered,35.9
+FD10396,2026-10-19,20,Chennai,Tandoori Nights,North Indian,601.99,Cash,Delivered,33.0
+FD11392,2026-09-04,21,Pune,Dosa Plaza,South Indian,129.78,Cash,Delivered,31.6
+FD10327,2026-10-21,16,Mumbai,Biryani House,Biryani,336.31,UPI,Delivered,
+FD10192,2026-09-27,19,Bengaluru,Burger Barn,Burgers,167.24,UPI,Delivered,26.6
+FD10723,2026-10-16,18,Hyderabad,Spice Route,North Indian,399.5,UPI,Delivered,39.1
+FD11139,2026-10-22,18,Meerut,Spice Route,North Indian,256.94,Card,Delivered,23.9
+FD11065,2026-08-23,19,Pune,Healthy Bowl,Healthy,341.38,UPI,Delivered,41.8
+FD10994,2026-10-31,18,Meerut,Pizza Corner,Pizza,524.08,Card,Delivered,31.9
+FD10921,2026-09-08,13,Hyderabad,Healthy Bowl,Healthy,264.65,UPI,Cancelled,
+FD10496,2026-09-13,11,Delhi,Spice Route,North Indian,347.06,Wallet,Delivered,43.5
+FD11033,2026-09-12,21,Mumbai,Spice Route,North Indian,232.65,UPI,Delivered,39.6
+FD10868,2026-08-24,22,Mumbai,Healthy Bowl,Healthy,504.27,UPI,Delayed,49.9
+FD10385,2026-08-23,12,Delhi,Pizza Corner,Pizza,591.14,Card,Delivered,27.4
+FD11111,2026-10-30,13,Bengaluru,Spice Route,North Indian,312.54,UPI,Delivered,28.2
+FD10653,2026-08-19,21,Bengaluru,Tandoori Nights,North Indian,531.75,UPI,Delivered,33.0
+FD11463,2026-08-31,12,Mumbai,Wrap Station,Fast Food,372.76,Card,Delivered,24.6
+FD10398,2026-10-09,22,Chennai,Biryani House,Biryani,355.34,Card,Delivered,44.4
+FD10947,2026-10-14,19,Hyderabad,Tandoori Nights,North Indian,367.46,Wallet,Delivered,38.0
+FD11124,2026-09-10,21,Meerut,Healthy Bowl,Healthy,466.39,UPI,Delivered,38.4
+FD11495,2026-09-11,21,Meerut,Curry Leaf,South Indian,320.72,Wallet,Delivered,41.9
+FD10725,2026-09-30,18,Delhi,Sweet Tooth,Desserts,299.38,Cash,Delivered,36.9
+FD10533,2026-08-10,10,Kolkata,Burger Barn,Burgers,153.12,Cash,Delivered,26.2
+FD10763,2026-10-05,20,Bengaluru,Dragon Wok,Chinese,469.99,Cash,Delayed,62.4
+FD10162,2026-08-27,18,Delhi,Dragon Wok,Chinese,350.31,Cash,Delivered,44.2
+FD11313,2026-10-10,17,Mumbai,Tandoori Nights,North Indian,259.21,Card,Delayed,48.3
+FD10937,2026-10-12,20,Bengaluru,Wrap Station,Fast Food,238.66,UPI,Delivered,43.1
+FD11040,2026-08-25,11,Bengaluru,Pizza Corner,Pizza,512.4,UPI,Delayed,50.8
+FD11074,2026-09-29,19,Kolkata,Pizza Corner,Pizza,449.03,Cash,Delivered,40.1
+FD11280,2026-09-18,18,Bengaluru,Healthy Bowl,Healthy,373.32,UPI,Delayed,47.3
+FD10021,2026-08-25,22,Chennai,Dragon Wok,Chinese,216.87,UPI,Delayed,46.8
+FD10570,2026-10-08,13,Pune,Burger Barn,Burgers,224.55,UPI,Delivered,40.5
+FD10654,2026-09-05,13,Delhi,Sweet Tooth,Desserts,337.37,UPI,Delivered,
+FD10697,2026-08-05,13,Bengaluru,Dragon Wok,Chinese,436.81,Wallet,Delivered,43.3
+FD10482,2026-08-30,19,Chennai,Biryani House,Biryani,402.03,Cash,Delivered,19.4
+FD10034,2026-09-03,16,Mumbai,Dragon Wok,Chinese,310.43,UPI,Delivered,32.6
+FD11050,2026-08-06,18,Chennai,Pizza Corner,Pizza,459.12,UPI,Cancelled,
+FD10048,2026-10-05,23,Mumbai,Biryani House,Biryani,255.6,UPI,Delivered,32.7
+FD10030,2026-10-02,17,Hyderabad,Sweet Tooth,Desserts,231.66,Card,Cancelled,
+FD11006,2026-10-08,19,Mumbai,Pizza Corner,Pizza,544.42,Cash,Delivered,34.8
+FD11420,2026-10-04,11,Bengaluru,Dosa Plaza,South Indian,182.29,UPI,Delivered,40.3
+FD11146,2026-10-01,12,Delhi,Dragon Wok,Chinese,362.49,Wallet,Delayed,48.7
+FD11287,2026-08-06,17,Kolkata,Sweet Tooth,Desserts,317.73,Wallet,Delivered,43.0
+FD10511,2026-09-23,22,Kolkata,Pizza Corner,Pizza,616.76,UPI,Delivered,
+FD10531,2026-09-27,11,Hyderabad,Sweet Tooth,Desserts,181.89,Cash,Delivered,19.9
+FD10923,2026-09-01,11,Chennai,Tandoori Nights,North Indian,445.92,Wallet,Delivered,34.9
+FD10502,2026-09-18,20,Bengaluru,Pizza Corner,Pizza,495.53,UPI,Delivered,26.4
+FD10433,2026-10-27,19,Chennai,Dosa Plaza,South Indian,163.39,UPI,Delivered,43.5
+FD10254,2026-09-12,15,Bengaluru,Burger Barn,Burgers,362.62,UPI,Delivered,16.9
+FD11472,2026-10-14,18,Pune,Biryani House,Biryani,213.3,Wallet,Delivered,30.2
+FD11382,2026-10-06,20,Mumbai,Spice Route,North Indian,391.9,UPI,Delayed,48.0
+FD11225,2026-09-19,15,Bengaluru,Tandoori Nights,North Indian,352.64,Cash,Delivered,41.0
+FD10780,2026-10-23,19,Delhi,Healthy Bowl,Healthy,151.88,Card,Delivered,37.5
+FD10367,2026-08-23,11,Meerut,Dosa Plaza,South Indian,172.8,UPI,Delayed,77.2
+FD11077,2026-10-07,22,Mumbai,Wrap Station,Fast Food,218.74,Card,Delivered,37.9
+FD11079,2026-08-17,20,Bengaluru,Sweet Tooth,Desserts,318.48,Card,Delivered,32.8
+FD10681,2026-09-09,13,Mumbai,Healthy Bowl,Healthy,244.08,Cash,Delivered,43.8
+FD11214,2026-08-10,11,Bengaluru,Biryani House,Biryani,102.55,Card,Delivered,37.5
+FD10813,2026-09-17,19,Meerut,Spice Route,North Indian,293.55,Wallet,Delivered,29.7
+FD10736,2026-10-28,17,Meerut,Tandoori Nights,North Indian,442.46,Card,Delivered,27.6
+FD11049,2026-08-06,17,Mumbai,Noodle Bar,Chinese,367.8,Card,Delivered,38.1
+FD10299,2026-10-10,23,Chennai,Wrap Station,Fast Food,355.29,UPI,Delivered,38.2
+FD10557,2026-09-11,13,Delhi,Curry Leaf,South Indian,462.73,Wallet,Cancelled,
+FD10576,2026-10-25,19,Bengaluru,Burger Barn,Burgers,250.55,Wallet,Delivered,20.0
+FD10019,2026-08-27,18,Meerut,Healthy Bowl,Healthy,296.33,Wallet,Delivered,31.6
+FD10573,2026-09-29,11,Pune,Dragon Wok,Chinese,370.23,Wallet,Delivered,29.5
+FD10226,2026-08-17,19,Bengaluru,Wrap Station,Fast Food,227.09,Wallet,Delivered,34.4
+FD10600,2026-09-25,17,Delhi,Dosa Plaza,South Indian,277.19,UPI,Delivered,30.1
+FD10420,2026-09-18,19,Kolkata,Healthy Bowl,Healthy,292.09,UPI,Delayed,51.8
+FD11453,2026-10-13,17,Delhi,Burger Barn,Burgers,212.41,Cash,Delivered,39.8
+FD10219,2026-09-10,18,Delhi,Dragon Wok,Chinese,362.67,UPI,Delayed,90.6
+FD10308,2026-08-09,18,Delhi,Pizza Corner,Pizza,517.76,Card,Delayed,83.9
+FD10157,2026-09-17,18,Bengaluru,Sweet Tooth,Desserts,160.4,Wallet,Delivered,26.0
+FD10172,2026-09-04,20,Pune,Sweet Tooth,Desserts,86.38,UPI,Delivered,39.8
+FD11202,2026-09-14,12,Delhi,Wrap Station,Fast Food,306.67,UPI,Delivered,29.9
+FD10706,2026-10-19,13,Delhi,Healthy Bowl,Healthy,354.78,UPI,Delayed,52.7
+FD10287,2026-08-27,20,Hyderabad,Healthy Bowl,Healthy,431.96,Card,Delivered,38.8
+FD11091,2026-09-23,16,Delhi,Tandoori Nights,North Indian,170.47,UPI,Delivered,43.1
+FD10454,2026-09-16,20,Bengaluru,Dosa Plaza,South Indian,209.54,Cash,Delivered,40.7
+FD11476,2026-09-18,21,Hyderabad,Wrap Station,Fast Food,424.87,UPI,Delayed,48.0
+FD10072,2026-08-13,19,Bengaluru,Sweet Tooth,Desserts,80.0,UPI,Delivered,32.9
+FD10083,2026-10-18,10,Hyderabad,Tandoori Nights,North Indian,503.78,Card,Delivered,38.1
+FD11498,2026-10-29,21,Meerut,Wrap Station,Fast Food,354.21,UPI,Delivered,30.6
+FD11462,2026-08-22,20,Delhi,Spice Route,North Indian,413.24,Cash,Delivered,29.4
+FD10016,2026-10-26,19,Bengaluru,Dosa Plaza,South Indian,80.0,UPI,Delivered,29.5
+FD10536,2026-08-27,18,Delhi,Spice Route,North Indian,375.32,Card,Delivered,40.5
+FD11167,2026-10-02,22,Bengaluru,Pizza Corner,Pizza,373.65,Cash,Delivered,38.3
+FD10919,2026-09-14,19,Bengaluru,Healthy Bowl,Healthy,329.86,UPI,Cancelled,
+FD10452,2026-08-15,13,Mumbai,Dosa Plaza,South Indian,132.05,Card,Delivered,40.6
+FD11164,2026-08-05,19,Delhi,Biryani House,Biryani,296.9,Card,Delivered,40.3
+FD10405,2026-08-03,12,Mumbai,Spice Route,North Indian,373.73,Card,Delivered,38.8
+FD11407,2026-10-25,12,Delhi,Healthy Bowl,Healthy,359.25,UPI,Cancelled,
+FD11365,2026-09-23,21,Mumbai,Healthy Bowl,Healthy,283.73,Cash,Delivered,36.6
+FD10740,2026-08-31,12,Bengaluru,Sweet Tooth,Desserts,194.24,Wallet,Delivered,32.4
+FD10365,2026-08-28,13,Delhi,Dosa Plaza,South Indian,80.0,Cash,Delayed,52.5
+FD10105,2026-10-08,18,Pune,Wrap Station,Fast Food,270.66,Wallet,Delivered,21.7
+FD11413,2026-08-26,23,Chennai,Wrap Station,Fast Food,172.77,UPI,Cancelled,
+FD11254,2026-08-08,18,Bengaluru,Healthy Bowl,Healthy,342.47,Card,Delivered,28.1
+FD10662,2026-10-06,20,Delhi,Biryani House,Biryani,374.43,Card,Delivered,33.8
+FD10242,2026-10-04,23,Bengaluru,Noodle Bar,Chinese,426.25,UPI,Delivered,29.1
+FD10431,2026-09-17,16,Kolkata,Dragon Wok,Chinese,350.37,Card,Delivered,30.3
+FD10815,2026-08-30,20,Pune,Sweet Tooth,Desserts,297.1,UPI,Delivered,32.4
+FD10631,2026-08-11,21,Pune,Burger Barn,Burgers,310.98,UPI,Delayed,50.7
+FD10097,2026-09-15,12,Hyderabad,Tandoori Nights,North Indian,418.89,UPI,Delivered,33.2
+FD10468,2026-08-18,21,Chennai,Tandoori Nights,North Indian,488.96,Card,Delivered,33.1
+FD10085,2026-09-08,15,Mumbai,Sweet Tooth,Desserts,257.32,UPI,Delayed,61.7
+FD10702,2026-10-04,18,Kolkata,Burger Barn,Burgers,237.59,Card,Delivered,31.8
+FD10010,2026-08-09,20,Delhi,Biryani House,Biryani,423.83,UPI,Delivered,44.1
+FD10605,2026-08-27,13,Mumbai,Dragon Wok,Chinese,267.45,Cash,Cancelled,
+FD10879,2026-08-22,11,Hyderabad,Pizza Corner,Pizza,584.91,Card,Delivered,40.0
+FD10774,2026-08-27,20,Hyderabad,Biryani House,Biryani,419.48,Card,Delivered,21.5
+FD11163,2026-10-02,18,Chennai,Wrap Station,Fast Food,268.3,Cash,Delivered,31.0
+FD10277,2026-09-07,20,Bengaluru,Biryani House,Biryani,393.1,Card,Delayed,47.6
+FD10089,2026-09-26,19,Mumbai,Healthy Bowl,Healthy,331.01,Card,Delayed,51.3
+FD10091,2026-08-14,22,Chennai,Dosa Plaza,South Indian,176.69,UPI,Delivered,23.7
+FD10766,2026-08-03,18,Bengaluru,Dosa Plaza,South Indian,282.66,Cash,Cancelled,
+FD10281,2026-08-23,11,Mumbai,Tandoori Nights,North Indian,552.61,Cash,Delivered,40.4
+FD11008,2026-10-28,21,Mumbai,Healthy Bowl,Healthy,204.76,UPI,Cancelled,
+FD10652,2026-09-26,19,Delhi,Spice Route,North Indian,382.58,UPI,Delivered,33.1
+FD10993,2026-10-24,19,Chennai,Noodle Bar,Chinese,424.98,UPI,Delivered,41.4
+FD10366,2026-08-15,18,Bengaluru,Dragon Wok,Chinese,257.47,Cash,Delivered,39.4
+FD10024,2026-10-07,12,Chennai,Biryani House,Biryani,336.42,UPI,Delivered,41.0
+FD10677,2026-08-23,17,Bengaluru,Spice Route,North Indian,250.9,Card,Delivered,15.1
+FD10999,2026-09-25,19,Delhi,Curry Leaf,South Indian,317.23,UPI,Delivered,31.4
+FD11190,2026-09-17,12,Mumbai,Tandoori Nights,North Indian,482.69,Card,Delayed,46.2
+FD10311,2026-09-22,20,Kolkata,Dragon Wok,Chinese,288.91,Card,Delayed,50.2
+FD11061,2026-10-19,12,Mumbai,Curry Leaf,South Indian,264.93,Cash,Delivered,41.2
+FD10641,2026-10-27,18,Mumbai,Sweet Tooth,Desserts,258.37,Card,Delivered,34.3
+FD10241,2026-09-04,19,Pune,Spice Route,North Indian,417.28,Card,Cancelled,
+FD10667,2026-10-15,13,Bengaluru,Noodle Bar,Chinese,213.43,UPI,Delayed,48.6
+FD11311,2026-08-21,18,Chennai,Sweet Tooth,Desserts,146.32,Cash,Delivered,43.4
+FD10099,2026-08-16,13,Bengaluru,Sweet Tooth,Desserts,171.94,Cash,Delivered,33.9
+FD10168,2026-08-10,13,Pune,Noodle Bar,Chinese,377.43,Cash,Delivered,31.6
+FD10497,2026-10-13,12,Pune,Sweet Tooth,Desserts,80.0,Cash,Delivered,32.1
+FD10276,2026-10-04,21,Hyderabad,Burger Barn,Burgers,240.76,Cash,Delayed,98.9
+FD11114,2026-09-06,21,Delhi,Dosa Plaza,South Indian,300.51,Wallet,Delivered,37.1
+FD10715,2026-10-22,20,Delhi,Pizza Corner,Pizza,532.75,UPI,Delayed,48.5
+FD11278,2026-10-16,20,Chennai,Spice Route,North Indian,251.76,UPI,Delivered,38.7
+FD10332,2026-08-28,13,Meerut,Burger Barn,Burgers,184.86,Card,Delivered,42.8
+FD10220,2026-10-29,18,Bengaluru,Biryani House,Biryani,379.08,Wallet,Delivered,37.3
+FD10434,2026-10-13,22,Mumbai,Dosa Plaza,South Indian,126.0,UPI,Delivered,32.7
+FD11465,2026-08-19,19,Mumbai,Biryani House,Biryani,276.73,Card,Cancelled,
+FD11301,2026-09-07,20,Delhi,Biryani House,Biryani,472.92,Card,Delivered,44.4
+FD10487,2026-10-06,10,Pune,Sweet Tooth,Desserts,253.09,Wallet,Delivered,26.0
+FD10532,2026-10-24,21,Pune,Burger Barn,Burgers,116.36,UPI,Delivered,42.3
+FD11320,2026-09-03,17,Delhi,Wrap Station,Fast Food,179.28,Card,Delivered,40.5
+FD10261,2026-10-04,22,Mumbai,Noodle Bar,Chinese,165.21,Card,Delayed,50.0
+FD10811,2026-10-12,19,Delhi,Curry Leaf,South Indian,281.6,UPI,Delayed,50.4
+FD10306,2026-09-08,12,Delhi,Dragon Wok,Chinese,418.68,Card,Delivered,31.2
+FD11283,2026-08-07,18,Mumbai,Pizza Corner,Pizza,449.67,Cash,Delivered,39.0
+FD10197,2026-08-16,19,Meerut,Noodle Bar,Chinese,349.82,Card,Delivered,24.7
+FD11165,2026-08-22,18,Hyderabad,Spice Route,North Indian,406.95,Cash,Delivered,24.5
+FD11147,2026-09-15,12,Bengaluru,Dosa Plaza,South Indian,282.79,UPI,Cancelled,
+FD10495,2026-08-30,13,Bengaluru,Healthy Bowl,Healthy,316.98,UPI,Delayed,54.3
+FD10111,2026-08-09,19,Delhi,Wrap Station,Fast Food,196.26,Card,Delivered,41.0
+FD11109,2026-09-15,19,Mumbai,Dragon Wok,Chinese,275.65,Card,Delivered,37.1
+FD10514,2026-10-02,18,Bengaluru,Pizza Corner,Pizza,482.49,UPI,Delivered,35.2
+FD10692,2026-08-11,11,Hyderabad,Sweet Tooth,Desserts,226.67,UPI,Delayed,48.1
+FD10370,2026-08-27,20,Delhi,Dragon Wok,Chinese,294.94,Card,Delivered,36.8
+FD10794,2026-10-31,12,Delhi,Tandoori Nights,North Indian,501.58,Wallet,Delivered,30.2
+FD11099,2026-10-24,20,Mumbai,Wrap Station,Fast Food,181.47,UPI,Delivered,31.8
+FD10927,2026-09-09,13,Hyderabad,Curry Leaf,South Indian,309.7,Wallet,Delivered,32.2
+FD10274,2026-09-12,11,Mumbai,Burger Barn,Burgers,369.6,Card,Delayed,53.2
+FD10397,2026-09-28,18,Bengaluru,Biryani House,Biryani,263.83,UPI,Delayed,46.7
+FD11179,2026-10-21,19,Mumbai,Spice Route,North Indian,469.43,Card,Delayed,46.5
+FD11411,2026-08-16,21,Meerut,Spice Route,North Indian,356.28,UPI,Delivered,21.0
+FD11216,2026-08-04,12,Bengaluru,Wrap Station,Fast Food,88.37,UPI,Delivered,37.8
+FD10798,2026-08-04,21,Hyderabad,Tandoori Nights,North Indian,532.41,UPI,Delivered,27.6
+FD11212,2026-09-02,10,Mumbai,Biryani House,Biryani,448.7,UPI,Delivered,44.4
+FD11075,2026-09-18,18,Hyderabad,Tandoori Nights,North Indian,440.46,Card,Delivered,22.0
+FD11063,2026-10-13,18,Delhi,Pizza Corner,Pizza,604.7,Card,Delayed,49.3
+FD10962,2026-09-24,20,Pune,Dosa Plaza,South Indian,275.62,Wallet,Delivered,38.7
+FD10419,2026-10-19,16,Mumbai,Curry Leaf,South Indian,264.0,UPI,Delayed,52.4
+FD11233,2026-08-29,13,Kolkata,Healthy Bowl,Healthy,105.88,Card,Delivered,32.3
+FD10376,2026-09-17,21,Pune,Sweet Tooth,Desserts,378.4,UPI,Delivered,35.8
+FD10464,2026-08-03,18,Delhi,Noodle Bar,Chinese,367.67,UPI,Delivered,31.2
+FD10471,2026-09-04,21,Kolkata,Dosa Plaza,South Indian,243.37,UPI,Delivered,39.9
+FD11100,2026-08-21,19,Pune,Healthy Bowl,Healthy,154.25,Card,Delivered,25.4
+FD10560,2026-09-10,19,Delhi,Tandoori Nights,North Indian,402.01,UPI,Delivered,43.2
+FD10303,2026-10-02,19,Pune,Wrap Station,Fast Food,215.26,UPI,Delayed,52.1
+FD10583,2026-10-08,12,Hyderabad,Sweet Tooth,Desserts,247.39,Card,Delivered,37.1
+FD10799,2026-09-02,18,Pune,Dragon Wok,Chinese,322.61,Card,Delivered,24.1
+FD10012,2026-10-11,20,Meerut,Burger Barn,Burgers,175.97,UPI,Delivered,24.7
+FD11284,2026-08-28,12,Delhi,Sweet Tooth,Desserts,125.23,Wallet,Delivered,42.5
+FD10539,2026-09-06,13,Mumbai,Sweet Tooth,Desserts,80.0,UPI,Delayed,56.2
+FD10628,2026-08-12,12,Chennai,Biryani House,Biryani,383.81,UPI,Delivered,18.1
+FD10282,2026-10-15,12,Mumbai,Pizza Corner,Pizza,537.12,Cash,Delivered,43.7
+FD10984,2026-10-09,19,Hyderabad,Dragon Wok,Chinese,158.98,UPI,Delivered,37.7
+FD11221,2026-08-14,23,Chennai,Dosa Plaza,South Indian,256.73,Card,Delivered,31.7
+FD10224,2026-10-22,16,Mumbai,Spice Route,North Indian,389.02,Card,Delayed,50.3
+FD10673,2026-10-06,22,Kolkata,Sweet Tooth,Desserts,231.98,Wallet,Delivered,36.7
+FD11244,2026-10-18,12,Pune,Spice Route,North Indian,368.35,UPI,Delivered,28.7
+FD10967,2026-08-31,21,Delhi,Dragon Wok,Chinese,315.06,Cash,Delayed,46.8
+FD11150,2026-10-06,17,Mumbai,Spice Route,North Indian,215.85,Cash,Delayed,45.7
+FD11094,2026-08-01,19,Bengaluru,Curry Leaf,South Indian,164.74,Card,Delayed,60.0
+FD10182,2026-08-09,17,Meerut,Pizza Corner,Pizza,450.18,UPI,Delivered,22.4
+FD10995,2026-09-07,21,Delhi,Noodle Bar,Chinese,248.54,UPI,Delivered,40.3
+FD10581,2026-10-07,12,Bengaluru,Dragon Wok,Chinese,251.58,UPI,Delivered,39.9
+FD11046,2026-10-06,18,Chennai,Spice Route,North Indian,373.92,UPI,Delayed,54.6
+FD10078,2026-08-07,18,Mumbai,Sweet Tooth,Desserts,181.9,UPI,Delivered,39.0
+FD10548,2026-08-20,21,Bengaluru,Biryani House,Biryani,306.62,UPI,Delivered,44.7
+FD11280,2026-09-18,18,Bengaluru,Healthy Bowl,Healthy,373.32,UPI,Delayed,47.3
+FD10749,2026-08-01,18,Delhi,Burger Barn,Burgers,213.22,Wallet,Delivered,37.2
+FD10827,2026-08-23,20,Mumbai,Healthy Bowl,Healthy,279.71,Cash,Delayed,50.3
+FD10126,2026-08-11,11,Chennai,Noodle Bar,Chinese,275.42,UPI,Delivered,41.2
+FD11253,2026-09-18,20,Chennai,Curry Leaf,South Indian,114.44,UPI,Delivered,37.0
+FD10758,2026-08-25,18,Chennai,Spice Route,North Indian,446.36,UPI,Delivered,31.4
+FD11067,2026-08-01,16,Delhi,Sweet Tooth,Desserts,454.32,UPI,Delivered,34.0
+FD10577,2026-10-03,11,Mumbai,Dragon Wok,Chinese,280.5,UPI,Delivered,42.0
+FD10622,2026-10-02,20,Delhi,Healthy Bowl,Healthy,334.46,Cash,Delayed,48.7
+FD10768,2026-08-24,15,Bengaluru,Noodle Bar,Chinese,255.39,Card,Delivered,32.9
+FD11230,2026-10-04,14,Delhi,Noodle Bar,Chinese,280.84,Wallet,Delivered,27.7
+FD11296,2026-10-19,19,Delhi,Biryani House,Biryani,418.44,UPI,Delivered,36.5
+FD11031,2026-10-12,22,Hyderabad,Noodle Bar,Chinese,493.6,UPI,Delayed,79.6
+FD11381,2026-09-11,20,Kolkata,Sweet Tooth,Desserts,102.14,UPI,Delivered,24.5
+FD10803,2026-09-25,18,Hyderabad,Biryani House,Biryani,339.24,Card,Delivered,43.2
+FD10845,2026-08-29,16,Meerut,Curry Leaf,South Indian,372.83,Wallet,Delivered,22.4
+FD11303,2026-09-12,23,Delhi,Biryani House,Biryani,400.35,Card,Delivered,38.6
+FD11500,2026-08-23,18,Bengaluru,Spice Route,North Indian,225.58,Cash,Cancelled,
+FD11312,2026-08-08,12,Bengaluru,Sweet Tooth,Desserts,214.33,UPI,Delivered,
+FD10260,2026-10-06,11,Kolkata,Noodle Bar,Chinese,247.09,Card,Delivered,36.3
+FD10283,2026-10-13,19,Chennai,Noodle Bar,Chinese,235.01,Wallet,Delivered,36.8
+FD10635,2026-08-23,17,Bengaluru,Spice Route,North Indian,277.7,Cash,Delivered,41.6
+FD11440,2026-08-11,20,Mumbai,Tandoori Nights,North Indian,492.06,UPI,Delayed,46.4
+FD10475,2026-09-12,17,Delhi,Curry Leaf,South Indian,236.37,Card,Delivered,40.9
+FD10456,2026-10-15,19,Mumbai,Sweet Tooth,Desserts,191.53,UPI,Delayed,49.5
+FD10321,2026-08-08,20,Chennai,Spice Route,North Indian,252.43,UPI,Delayed,48.2
+FD10435,2026-10-23,12,Chennai,Wrap Station,Fast Food,258.14,Card,Cancelled,
+FD11473,2026-09-20,21,Chennai,Curry Leaf,South Indian,161.92,UPI,Delayed,46.6
+FD10300,2026-08-17,12,Chennai,Wrap Station,Fast Food,214.99,Cash,Cancelled,
+FD10437,2026-10-24,18,Bengaluru,Curry Leaf,South Indian,217.87,UPI,Delivered,30.6
+FD11393,2026-09-23,19,Bengaluru,Curry Leaf,South Indian,272.18,UPI,Delivered,29.4
+FD10439,2026-08-29,21,Bengaluru,Dosa Plaza,South Indian,243.08,Cash,Delayed,55.1
+FD10326,2026-10-12,19,Hyderabad,Spice Route,North Indian,279.76,UPI,Delayed,46.7
+FD10404,2026-08-21,18,Meerut,Dosa Plaza,South Indian,124.42,Wallet,Delivered,27.6
+FD11290,2026-10-13,21,Delhi,Tandoori Nights,North Indian,370.9,UPI,Delivered,35.0
+FD10565,2026-08-19,12,Mumbai,Noodle Bar,Chinese,325.91,Card,Delivered,35.4
+FD10293,2026-10-17,12,Delhi,Burger Barn,Burgers,240.06,UPI,Delivered,32.5
+FD10279,2026-09-02,21,Hyderabad,Spice Route,North Indian,280.97,Card,Delivered,41.4
+FD10656,2026-08-11,14,Bengaluru,Spice Route,North Indian,305.48,Cash,Delivered,37.4
+FD11330,2026-10-23,10,Meerut,Sweet Tooth,Desserts,209.26,UPI,Delivered,
+FD10733,2026-08-31,13,Mumbai,Pizza Corner,Pizza,613.86,UPI,Delayed,47.0
+FD10554,2026-10-01,11,Delhi,Pizza Corner,Pizza,362.13,UPI,Delivered,35.6
+FD10095,2026-08-15,19,Delhi,Burger Barn,Burgers,85.67,Wallet,Delivered,30.1
+FD11444,2026-09-02,12,Meerut,Dragon Wok,Chinese,320.28,UPI,Delivered,28.7
+FD11256,2026-09-11,19,Delhi,Tandoori Nights,North Indian,337.26,UPI,Delayed,47.3
+FD10246,2026-10-07,11,Delhi,Spice Route,North Indian,315.08,Cash,Delivered,29.7
+FD10946,2026-10-07,12,Hyderabad,Burger Barn,Burgers,354.31,UPI,Delivered,35.8
+FD11192,2026-08-23,14,Pune,Noodle Bar,Chinese,385.49,Wallet,Delivered,28.1
+FD10776,2026-10-16,18,Kolkata,Dosa Plaza,South Indian,212.14,Card,Delivered,31.9
+FD10427,2026-08-30,13,Delhi,Curry Leaf,South Indian,259.2,UPI,Delayed,59.4
+FD11187,2026-08-29,23,Chennai,Biryani House,Biryani,327.13,Card,Delivered,24.3
+FD10150,2026-08-09,21,Meerut,Pizza Corner,Pizza,536.36,Cash,Delivered,40.4
+FD10227,2026-08-04,14,Mumbai,Wrap Station,Fast Food,114.25,UPI,Delivered,41.4
+FD10866,2026-08-06,13,Mumbai,Tandoori Nights,North Indian,603.49,UPI,Delayed,54.9
+FD10968,2026-08-11,12,Delhi,Curry Leaf,South Indian,175.29,Card,Delivered,28.7
+FD11119,2026-08-04,21,Bengaluru,Tandoori Nights,North Indian,578.88,UPI,Delivered,42.3
+FD11246,2026-08-14,18,Mumbai,Wrap Station,Fast Food,222.98,Cash,Delivered,31.5
+FD10901,2026-08-31,12,Kolkata,Pizza Corner,Pizza,497.26,Cash,Delivered,32.0
+FD10700,2026-08-23,21,Kolkata,Dragon Wok,Chinese,291.69,UPI,Delivered,38.6
+FD10602,2026-10-07,20,Hyderabad,Dragon Wok,Chinese,285.94,UPI,Cancelled,
+FD11292,2026-08-11,20,Bengaluru,Spice Route,North Indian,171.84,Cash,Delivered,41.9
+FD11059,2026-09-22,18,Kolkata,Biryani House,Biryani,391.86,Cash,Delivered,32.8
+FD10218,2026-08-03,19,Meerut,Burger Barn,Burgers,267.91,UPI,Delivered,30.4
+FD11097,2026-08-01,13,Mumbai,Dragon Wok,Chinese,198.17,UPI,Cancelled,
+FD10818,2026-10-15,13,Chennai,Tandoori Nights,North Indian,460.07,UPI,Delayed,45.0
+FD10221,2026-09-16,22,Meerut,Tandoori Nights,North Indian,431.69,Card,Delivered,17.3
+FD10214,2026-10-27,19,Bengaluru,Wrap Station,Fast Food,177.26,Cash,Delivered,30.9
+FD11419,2026-08-22,21,Meerut,Spice Route,North Indian,295.84,Cash,Delivered,
+FD10908,2026-10-17,22,Pune,Tandoori Nights,North Indian,485.2,Cash,Delivered,23.0
+FD10395,2026-10-21,13,Bengaluru,Tandoori Nights,North Indian,497.56,Card,Delivered,36.1
+FD10368,2026-09-03,21,Delhi,Curry Leaf,South Indian,254.52,Card,Delivered,43.5
+FD10925,2026-10-31,11,Mumbai,Sweet Tooth,Desserts,100.17,UPI,Delivered,40.3
+FD10013,2026-08-17,21,Hyderabad,Sweet Tooth,Desserts,206.49,Cash,Delivered,40.9
+FD11409,2026-09-06,19,Pune,Dosa Plaza,South Indian,249.54,Cash,Delivered,28.7
+FD11223,2026-10-10,18,Chennai,Healthy Bowl,Healthy,191.72,Wallet,Delayed,50.7
+FD10235,2026-10-15,11,Hyderabad,Pizza Corner,Pizza,461.46,UPI,Delivered,39.9
+FD10696,2026-10-09,12,Delhi,Pizza Corner,Pizza,376.48,Cash,Delivered,33.4
+FD11085,2026-08-10,18,Kolkata,Wrap Station,Fast Food,110.81,Card,Delayed,45.6
+FD11435,2026-08-10,11,Pune,Wrap Station,Fast Food,261.2,UPI,Delivered,33.1
+FD11355,2026-10-09,12,Delhi,Healthy Bowl,Healthy,358.19,UPI,Delivered,42.5
+FD11322,2026-08-10,21,Meerut,Sweet Tooth,Desserts,283.89,UPI,Delivered,28.8
+FD10064,2026-08-01,14,Hyderabad,Sweet Tooth,Desserts,119.03,Card,Delivered,22.4
+FD10735,2026-08-03,15,Bengaluru,Noodle Bar,Chinese,382.12,UPI,Delayed,45.5
+FD11024,2026-09-27,19,Delhi,Dosa Plaza,South Indian,164.98,UPI,Delivered,41.3
+FD10965,2026-10-02,21,Bengaluru,Curry Leaf,South Indian,248.39,Wallet,Delayed,52.8
+FD10608,2026-08-16,19,Mumbai,Curry Leaf,South Indian,344.68,UPI,Delayed,45.5
+FD10014,2026-08-04,18,Bengaluru,Wrap Station,Fast Food,305.16,UPI,Delayed,47.7
+FD10840,2026-09-14,13,Hyderabad,Curry Leaf,South Indian,217.49,UPI,Delayed,56.6
+FD10436,2026-09-29,19,Bengaluru,Dosa Plaza,South Indian,147.47,Card,Delivered,27.0
+FD10018,2026-08-10,21,Pune,Burger Barn,Burgers,153.36,UPI,Delivered,34.5
+FD10765,2026-09-23,18,Delhi,Noodle Bar,Chinese,346.32,Cash,Delivered,43.9
+FD10349,2026-10-28,19,Delhi,Noodle Bar,Chinese,291.42,Cash,Delivered,34.7
+FD10208,2026-10-25,13,Pune,Sweet Tooth,Desserts,254.26,UPI,Delayed,91.5
+FD11115,2026-10-01,19,Pune,Dosa Plaza,South Indian,200.8,Card,Delivered,28.3
+FD11332,2026-10-05,18,Meerut,Noodle Bar,Chinese,105.8,UPI,Delivered,24.8
+FD10342,2026-09-08,10,Kolkata,Curry Leaf,South Indian,223.88,UPI,Delivered,28.0
+FD10345,2026-08-16,12,Delhi,Sweet Tooth,Desserts,249.2,UPI,Delivered,43.4
+FD11370,2026-08-14,18,Hyderabad,Wrap Station,Fast Food,227.8,UPI,Cancelled,
+FD11402,2026-10-19,20,Delhi,Wrap Station,Fast Food,85.35,Card,Delayed,54.6
+FD10552,2026-10-07,16,Hyderabad,Burger Barn,Burgers,383.51,UPI,Delivered,25.9
+FD10599,2026-09-22,18,Bengaluru,Pizza Corner,Pizza,483.46,UPI,Delivered,33.6
+FD10033,2026-09-17,21,Bengaluru,Burger Barn,Burgers,80.0,UPI,Delivered,43.0
+FD10373,2026-08-01,21,Hyderabad,Noodle Bar,Chinese,127.98,UPI,Delivered,33.9
+FD10658,2026-08-31,21,Pune,Tandoori Nights,North Indian,151.28,Cash,Delivered,25.1
+FD10173,2026-08-09,17,Pune,Wrap Station,Fast Food,84.12,UPI,Delivered,38.5
+FD11087,2026-10-22,11,Bengaluru,Wrap Station,Fast Food,395.45,UPI,Delayed,51.9
+FD11412,2026-10-25,12,Bengaluru,Biryani House,Biryani,495.03,Card,Delivered,37.6
+FD10409,2026-09-27,18,Meerut,Healthy Bowl,Healthy,551.97,UPI,Delivered,14.7
+FD11051,2026-08-17,11,Meerut,Dragon Wok,Chinese,337.36,UPI,Delivered,27.3
+FD11456,2026-09-17,11,Hyderabad,Pizza Corner,Pizza,394.3,Card,Delayed,54.3
+FD10201,2026-09-28,17,Bengaluru,Sweet Tooth,Desserts,333.05,UPI,Delivered,31.3
+FD11317,2026-10-31,11,Pune,Dosa Plaza,South Indian,117.69,UPI,Delivered,33.9
+FD10861,2026-08-20,20,Meerut,Wrap Station,Fast Food,80.0,Card,Delivered,27.4
+FD11426,2026-09-22,19,Mumbai,Wrap Station,Fast Food,241.26,Cash,Delivered,36.5
+FD11166,2026-08-22,18,Kolkata,Curry Leaf,South Indian,561.36,UPI,Delivered,31.1
+FD11404,2026-09-01,20,Kolkata,Dosa Plaza,South Indian,220.86,UPI,Delivered,30.3
+FD11460,2026-10-05,14,Hyderabad,Curry Leaf,South Indian,300.89,Card,Delivered,32.2
+FD11362,2026-08-24,18,Delhi,Wrap Station,Fast Food,134.65,UPI,Delayed,47.6
+FD10490,2026-10-10,18,Chennai,Sweet Tooth,Desserts,238.79,Card,Delivered,33.5
+FD11437,2026-08-22,20,Pune,Burger Barn,Burgers,218.59,UPI,Delivered,31.4
+FD10213,2026-08-07,18,Mumbai,Burger Barn,Burgers,265.08,UPI,Delivered,26.8
+FD10134,2026-08-12,21,Hyderabad,Dragon Wok,Chinese,336.0,Cash,Delivered,43.9
+FD10061,2026-09-29,19,Hyderabad,Sweet Tooth,Desserts,185.67,UPI,Delivered,25.9
+FD10691,2026-10-05,13,Chennai,Burger Barn,Burgers,162.84,Cash,Delayed,51.3
+FD10027,2026-09-25,21,Bengaluru,Wrap Station,Fast Food,428.99,UPI,Delivered,33.8
+FD10101,2026-09-11,13,Bengaluru,Spice Route,North Indian,408.87,Cash,Delayed,53.5
+FD10975,2026-08-19,18,Chennai,Dragon Wok,Chinese,457.0,UPI,Delivered,26.1
+FD10777,2026-10-19,21,Mumbai,Burger Barn,Burgers,289.73,UPI,Delivered,35.4
+FD10789,2026-09-02,17,Mumbai,Sweet Tooth,Desserts,152.81,UPI,Delayed,51.3
+FD10521,2026-09-17,19,Hyderabad,Tandoori Nights,North Indian,331.17,Card,Delivered,35.4
+FD10364,2026-10-20,20,Kolkata,Spice Route,North Indian,296.49,UPI,Delivered,38.0
+FD10310,2026-09-05,22,Bengaluru,Biryani House,Biryani,400.76,Wallet,Delivered,36.6
+FD10796,2026-08-05,19,Delhi,Tandoori Nights,North Indian,371.41,UPI,Delivered,33.2
+FD10829,2026-10-18,17,Kolkata,Healthy Bowl,Healthy,323.96,UPI,Delivered,41.4
+FD11277,2026-10-08,19,Bengaluru,Healthy Bowl,Healthy,343.74,Cash,Delivered,26.3
+FD10545,2026-09-21,14,Kolkata,Pizza Corner,Pizza,467.62,Card,Delayed,52.2
+FD10940,2026-09-24,12,Mumbai,Burger Barn,Burgers,97.75,UPI,Delayed,54.1
+FD10442,2026-09-09,18,Hyderabad,Spice Route,North Indian,328.3,UPI,Delivered,33.7
+FD10648,2026-08-13,19,Delhi,Noodle Bar,Chinese,338.26,Cash,Delivered,39.1
+FD11004,2026-08-20,23,Hyderabad,Curry Leaf,South Indian,253.63,UPI,Delivered,37.8
+FD10477,2026-10-29,12,Mumbai,Pizza Corner,Pizza,480.51,UPI,Delivered,36.2
+FD11047,2026-09-17,19,Delhi,Wrap Station,Fast Food,80.0,Card,Delivered,36.5
+FD10063,2026-09-06,21,Delhi,Spice Route,North Indian,324.6,UPI,Delayed,109.5
+FD11173,2026-09-03,20,Meerut,Tandoori Nights,North Indian,487.53,Wallet,Delivered,26.0
+FD10484,2026-08-22,19,Chennai,Curry Leaf,South Indian,295.36,UPI,Delivered,31.5
+FD11027,2026-08-09,21,Chennai,Dosa Plaza,South Indian,204.32,Card,Delivered,41.7
+FD11282,2026-08-28,18,Chennai,Curry Leaf,South Indian,449.19,Cash,Delivered,44.6
+FD10053,2026-10-04,19,Hyderabad,Healthy Bowl,Healthy,316.68,UPI,Delivered,31.3
+FD10243,2026-10-19,19,Chennai,Curry Leaf,South Indian,210.85,Cash,Cancelled,
+FD11198,2026-10-26,18,Mumbai,Pizza Corner,Pizza,464.82,UPI,Delayed,46.9
+FD10036,2026-08-19,19,Chennai,Spice Route,North Indian,302.84,Card,Delivered,39.0
+FD11203,2026-08-06,20,Meerut,Sweet Tooth,Desserts,349.33,Card,Delivered,42.7
+FD10739,2026-10-01,20,Hyderabad,Sweet Tooth,Desserts,247.26,Card,Delivered,37.9
+FD10121,2026-10-06,23,Delhi,Tandoori Nights,North Indian,531.78,Card,Delivered,42.9
+FD11468,2026-08-06,21,Mumbai,Biryani House,Biryani,320.72,UPI,Cancelled,
+FD11300,2026-09-14,20,Bengaluru,Tandoori Nights,North Indian,508.74,Cash,Delivered,42.4
+FD11020,2026-09-16,11,Hyderabad,Biryani House,Biryani,288.17,UPI,Delivered,39.9
+FD10045,2026-08-14,20,Mumbai,Dosa Plaza,South Indian,293.85,Wallet,Delayed,81.2
+FD11325,2026-10-22,12,Mumbai,Burger Barn,Burgers,218.15,UPI,Cancelled,
+FD10837,2026-10-12,12,Mumbai,Noodle Bar,Chinese,278.13,UPI,Delivered,30.3
+FD10077,2026-09-30,22,Delhi,Dosa Plaza,South Indian,248.27,UPI,Delayed,45.6
+FD10369,2026-08-04,23,Delhi,Spice Route,North Indian,294.87,Wallet,Delayed,89.5
+FD10907,2026-08-22,20,Mumbai,Dragon Wok,Chinese,441.78,UPI,Delivered,37.4
+FD11237,2026-08-26,19,Mumbai,Dragon Wok,Chinese,328.39,Cash,Delivered,39.6
+FD10268,2026-10-27,20,Chennai,Wrap Station,Fast Food,181.84,UPI,Delivered,40.7
+FD11336,2026-08-03,19,Mumbai,Wrap Station,Fast Food,285.47,Card,Delivered,32.8
+FD10729,2026-09-30,22,Meerut,Dragon Wok,Chinese,241.55,UPI,Cancelled,
+FD10445,2026-08-20,18,Bengaluru,Pizza Corner,Pizza,487.38,Cash,Delivered,
+FD10504,2026-08-14,18,Bengaluru,Dragon Wok,Chinese,329.59,UPI,Delivered,27.5
+FD11058,2026-08-12,19,Mumbai,Tandoori Nights,North Indian,486.41,UPI,Delayed,59.0
+FD11034,2026-10-09,13,Mumbai,Dragon Wok,Chinese,211.03,UPI,Delivered,38.4
+FD11185,2026-09-01,21,Mumbai,Spice Route,North Indian,341.59,UPI,Delayed,49.2
+FD10286,2026-09-16,18,Hyderabad,Pizza Corner,Pizza,380.59,Cash,Delivered,28.5
+FD10296,2026-08-15,20,Meerut,Burger Barn,Burgers,255.44,UPI,Delivered,30.1
+FD10626,2026-10-12,23,Delhi,Noodle Bar,Chinese,174.25,UPI,Delivered,37.9
+FD10278,2026-09-07,19,Meerut,Dosa Plaza,South Indian,290.87,Cash,Delivered,24.1
+FD11457,2026-09-26,11,Hyderabad,Noodle Bar,Chinese,261.06,UPI,Cancelled,
+FD10485,2026-10-19,12,Hyderabad,Dosa Plaza,South Indian,391.72,UPI,Delivered,30.6
+FD10183,2026-10-10,15,Mumbai,Pizza Corner,Pizza,538.97,Card,Delayed,71.8
+FD10971,2026-10-02,16,Hyderabad,Tandoori Nights,North Indian,557.52,UPI,Delivered,30.9
+FD11490,2026-10-26,17,Delhi,Biryani House,Biryani,297.7,Card,Cancelled,
+FD10685,2026-08-18,20,Bengaluru,Biryani House,Biryani,492.98,UPI,Delayed,93.4
+FD10076,2026-09-13,23,Bengaluru,Curry Leaf,South Indian,233.08,Cash,Delivered,32.0
+FD10037,2026-10-28,20,Delhi,Noodle Bar,Chinese,446.01,Cash,Delivered,35.4
+FD11181,2026-10-16,18,Delhi,Noodle Bar,Chinese,444.6,UPI,Delivered,39.3
+FD10003,2026-09-28,20,Pune,Burger Barn,Burgers,198.72,Wallet,Delivered,33.9
+FD10755,2026-10-14,20,Mumbai,Biryani House,Biryani,346.3,UPI,Delayed,53.3
+FD10509,2026-09-10,13,Bengaluru,Biryani House,Biryani,358.74,Card,Delayed,
+FD10498,2026-10-24,18,Chennai,Wrap Station,Fast Food,376.12,Card,Delivered,36.7
+FD10309,2026-10-30,19,Delhi,Curry Leaf,South Indian,130.21,Wallet,Delivered,30.7
+FD11314,2026-08-05,12,Delhi,Burger Barn,Burgers,143.64,UPI,Delivered,35.6
+FD11439,2026-10-28,17,Meerut,Dosa Plaza,South Indian,336.34,Card,Delivered,12.0
+FD11446,2026-08-09,20,Bengaluru,Dosa Plaza,South Indian,149.36,UPI,Delivered,38.0
+FD10142,2026-09-19,22,Bengaluru,Pizza Corner,Pizza,308.19,Cash,Delivered,26.7
+FD11248,2026-09-18,19,Bengaluru,Tandoori Nights,North Indian,335.18,UPI,Delivered,29.6
+FD10865,2026-08-08,19,Hyderabad,Burger Barn,Burgers,259.62,Cash,Delivered,30.9
+FD10184,2026-08-06,16,Bengaluru,Dosa Plaza,South Indian,171.55,UPI,Cancelled,
+FD11481,2026-10-23,14,Meerut,Spice Route,North Indian,390.02,UPI,Delivered,25.2
+FD11011,2026-10-27,20,Hyderabad,Pizza Corner,Pizza,376.44,Cash,Delivered,36.5
+FD10913,2026-08-04,12,Hyderabad,Dosa Plaza,South Indian,297.8,Cash,Delayed,52.0
+FD10849,2026-09-27,14,Delhi,Burger Barn,Burgers,336.88,UPI,Delivered,27.6
+FD10512,2026-10-27,15,Mumbai,Noodle Bar,Chinese,381.9,UPI,Delivered,32.2
+FD10732,2026-09-08,13,Mumbai,Spice Route,North Indian,479.55,Wallet,Delivered,31.1
+FD10997,2026-09-29,13,Mumbai,Noodle Bar,Chinese,269.78,UPI,Delayed,58.6
+FD10888,2026-09-01,20,Delhi,Biryani House,Biryani,365.71,UPI,Delayed,53.6
+FD10118,2026-08-11,17,Pune,Healthy Bowl,Healthy,156.65,UPI,Delivered,32.8
+FD11026,2026-08-06,13,Chennai,Pizza Corner,Pizza,570.28,Cash,Delayed,49.7
+FD10114,2026-08-03,17,Chennai,Sweet Tooth,Desserts,199.87,Card,Delivered,28.5
+FD10546,2026-10-16,12,Bengaluru,Tandoori Nights,North Indian,279.57,Cash,Delivered,31.5
+FD10166,2026-10-25,18,Pune,Spice Route,North Indian,291.63,Cash,Delivered,20.9
+FD10185,2026-08-24,21,Chennai,Sweet Tooth,Desserts,152.13,UPI,Delivered,40.4
+FD11397,2026-09-13,12,Meerut,Sweet Tooth,Desserts,134.27,Wallet,Delivered,25.1
+FD10275,2026-08-10,19,Delhi,Tandoori Nights,North Indian,492.44,UPI,Delivered,33.3
+FD11002,2026-10-30,19,Mumbai,Wrap Station,Fast Food,327.49,UPI,Delivered,37.7
+FD10705,2026-08-25,12,Mumbai,Curry Leaf,South Indian,297.74,UPI,Delayed,53.3
+FD11025,2026-09-08,20,Hyderabad,Dragon Wok,Chinese,374.86,Card,Cancelled,
+FD10384,2026-09-10,14,Meerut,Pizza Corner,Pizza,444.59,Card,Cancelled,
+FD11430,2026-10-12,19,Pune,Burger Barn,Burgers,104.77,Cash,Delivered,29.0
+FD10562,2026-09-25,17,Kolkata,Noodle Bar,Chinese,280.9,UPI,Delivered,40.7
+FD10863,2026-10-26,12,Chennai,Dosa Plaza,South Indian,217.82,UPI,Delivered,32.9
+FD11045,2026-08-27,18,Chennai,Noodle Bar,Chinese,253.52,UPI,Delivered,27.9
+FD10177,2026-08-15,19,Delhi,Biryani House,Biryani,448.57,UPI,Delivered,39.5
+FD11360,2026-10-03,20,Pune,Pizza Corner,Pizza,468.41,Card,Delivered,36.9
+FD10380,2026-09-17,20,Hyderabad,Dosa Plaza,South Indian,221.66,Wallet,Delayed,48.1
+FD11196,2026-08-01,21,Hyderabad,Wrap Station,Fast Food,80.0,Cash,Delayed,45.5
+FD11017,2026-10-29,13,Delhi,Wrap Station,Fast Food,357.1,Card,Delivered,40.6
+FD10520,2026-08-11,14,Hyderabad,Curry Leaf,South Indian,122.63,UPI,Delivered,36.0
+FD10831,2026-08-09,12,Delhi,Pizza Corner,Pizza,408.79,Card,Delivered,30.2
+FD10508,2026-09-20,17,Kolkata,Pizza Corner,Pizza,586.76,UPI,Delivered,44.0
+FD11177,2026-09-26,20,Kolkata,Sweet Tooth,Desserts,111.96,UPI,Delivered,27.7
+FD10414,2026-08-01,22,Bengaluru,Pizza Corner,Pizza,405.64,UPI,Delayed,48.4
+FD10623,2026-10-06,12,Pune,Dosa Plaza,South Indian,343.4,UPI,Delivered,23.8
+FD10873,2026-08-20,13,Kolkata,Healthy Bowl,Healthy,215.93,UPI,Delayed,45.4
+FD10859,2026-09-05,20,Bengaluru,Tandoori Nights,North Indian,527.25,Card,Delivered,
+FD10642,2026-10-15,21,Hyderabad,Noodle Bar,Chinese,418.5,Card,Delivered,41.6
+FD11341,2026-10-26,13,Bengaluru,Sweet Tooth,Desserts,153.37,UPI,Delayed,47.8
+FD10259,2026-08-22,18,Delhi,Dragon Wok,Chinese,260.51,Wallet,Delivered,29.2
+FD10835,2026-10-26,11,Mumbai,Burger Barn,Burgers,245.07,Card,Delivered,34.3
+FD10663,2026-09-08,20,Delhi,Biryani House,Biryani,343.91,Card,Delayed,58.7
+FD11499,2026-10-17,13,Meerut,Wrap Station,Fast Food,116.29,UPI,Delayed,45.6
+FD10338,2026-08-18,11,Delhi,Spice Route,North Indian,217.96,Wallet,Delivered,32.7
+FD10399,2026-10-13,18,Chennai,Noodle Bar,Chinese,374.72,UPI,Delivered,35.8
+FD11448,2026-09-08,19,Delhi,Spice Route,North Indian,180.64,Cash,Delivered,34.9
+FD10606,2026-08-12,13,Bengaluru,Biryani House,Biryani,434.91,UPI,Delivered,43.0
+FD10481,2026-08-02,18,Pune,Dosa Plaza,South Indian,128.73,Card,Delivered,30.6
+FD11447,2026-08-26,20,Pune,Dosa Plaza,South Indian,105.6,UPI,Delivered,35.8
+FD11144,2026-10-04,18,Pune,Noodle Bar,Chinese,365.8,Cash,Delivered,17.2
+FD10918,2026-09-27,12,Mumbai,Burger Barn,Burgers,342.78,UPI,Delayed,92.7
+FD11018,2026-10-06,11,Delhi,Dosa Plaza,South Indian,119.18,UPI,Delivered,38.0
+FD10876,2026-10-25,16,Mumbai,Biryani House,Biryani,408.49,Card,Delivered,36.3
+FD10660,2026-09-25,18,Hyderabad,Healthy Bowl,Healthy,182.68,Card,Delivered,23.3
+FD11022,2026-08-26,19,Hyderabad,Spice Route,North Indian,246.5,Card,Delivered,30.2
+FD10790,2026-08-21,13,Delhi,Dosa Plaza,South Indian,182.61,UPI,Delivered,28.0
+FD10257,2026-08-12,19,Delhi,Sweet Tooth,Desserts,258.64,Cash,Delivered,37.7
+FD10969,2026-09-06,12,Meerut,Healthy Bowl,Healthy,206.74,Wallet,Delivered,34.4
+FD10953,2026-10-12,16,Kolkata,Pizza Corner,Pizza,507.72,UPI,Delivered,34.4
+FD11274,2026-08-15,19,Bengaluru,Biryani House,Biryani,416.7,UPI,Delivered,36.5
